@@ -1,1 +1,1 @@
-<span style="font-size:0.5em;">La Relance Démocratique</span>
+<span style="font-size:1em;">La Relance Démocratique</span>
