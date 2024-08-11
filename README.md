@@ -6,6 +6,8 @@
 
 ## La géopolitique / Geopolitics
 
+[Benjamin Tallis | Neo-idealism: Grand strategy for the future of the transatlantic community](https://macdonaldlaurier.ca/neo-idealism-grand-strategy-for-the-future-of-the-transatlantic-community/)
+
 [BERLINSIDEOUT | Mastering the Zeitenwende: Grand Strategy for Liberal Democracies](https://berlinsideout.podigee.io/4-mastering-the-zeitenwende)
 
 [BERLINSIDEOUT | Defending, Renewing & Spreading Liberal Democracy [Part 1]](https://berlinsideout.podigee.io/7-defending-renewing-spreading-liberal-democracy-pt-1)
