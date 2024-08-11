@@ -56,6 +56,14 @@
 
 #### Les crimes de guerre commis par la Russie / Russian war crimes
 
+[Mstyslav Chernov](https://www.youtube.com/watch?v=9H_Fg_5x4ME) | 20 Days In Mariupol
+
+[Alya Shandra](https://euromaidanpress.com/2022/12/21/red-cross-russia-office-collects-military-gear-for-russian-army-violating-principle-of-neutrality/?swcfpc=1) | Red Cross Russia office collects military gear for Russian Army, violating principle of neutrality
+
+[Katya Bonch-Osmolovskaya](https://istories.media/en/stories/2023/05/31/to-kidnap-and-russify/) | To Kidnap and Russify
+
+[Associated Press](https://www.theguardian.com/world/2023/jul/20/belarus-red-cross-says-it-is-involved-in-transfer-of-children-out-of-ukraine) | Belarus Red Cross says it is involved in transfer of children out of Ukraine
+
 #### La présence russe en Afrique / Russian presence in Africa
 
 [Silicon Curtain](https://www.youtube.com/watch?v=uZgI_ZfJMHY) | Beverly Ochieng - Wagner is Active in Africa Extracting Resources to Fuel Russia’s Global Ambitions
