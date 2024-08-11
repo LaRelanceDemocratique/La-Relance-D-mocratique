@@ -6,6 +6,8 @@
 
 ## La géopolitique / Geopolitics
 
+[BERLINSIDEOUT | Mastering the Zeitenwende: Grand Strategy for Liberal Democracies](https://berlinsideout.podigee.io/4-mastering-the-zeitenwende)
+
 ### Le néo-idéalisme / Neo-idealism
 
 ### La menace russe / The Russian threat
