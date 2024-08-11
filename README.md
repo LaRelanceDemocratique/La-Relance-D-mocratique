@@ -16,11 +16,15 @@
 
 [The Right Mind](https://www.youtube.com/watch?v=3CKmjw1gD40) | Benjamin Tallis on Status of the Zeitenwende, Neo-idealism, and Realism 
 
+[Silicon Curtain](https://www.youtube.com/watch?v=isGqDOiumWE) | Benjamin Tallis - Russia will Keep Prosecuting its Genocidal War in Ukraine for as Long as we Let it
+
 [Andrew A. Michta](https://www.the-american-interest.com/2020/08/04/three-decades-of-delusion/) | Three Decades of Delusion
 
 [Andrew A. Michta](https://www.politico.eu/article/international-relations-america-washington-politics-western-society-democracy-war/) | The West’s biggest vulnerability is internal
 
-[Andrew A. Michta](https://www.youtube.com/watch?v=0HKWabJqCtg) | Washington’s Failing Strategy in Ukraine Shows the Urgent Need for New Thinking
+[Silicon Curtain](https://www.youtube.com/watch?v=0HKWabJqCtg) | Andrew A. Michta - Washington’s Failing Strategy in Ukraine Shows the Urgent Need for New Thinking
+
+[Silicon Curtain](https://www.youtube.com/watch?v=b5DdWRdUadw) | Vlad Vexler - The Strategy the West Needs to Stop Putin's Aggression
 
 [Ania Zolyniak](https://irregularwarfare.org/articles/irregular-warfare-in-the-21st-century-autocracys-global-playbook/) | Irregular Warfare in the 21st Century: Autocracy’s Global Playbook
 
@@ -34,6 +38,10 @@
 
 [Silicon Curtain](https://www.youtube.com/watch?v=iw1586Jv30g) | Andrew Wilson - 'Political Technology' Developed in Russia is Being Used to Dismantle Democracies
 
+[Silicon Curtain](https://www.youtube.com/watch?v=6S__TPKQZ74) | Casey Michel - Is Putin Retooling His Regime to Support 'Eternal Warfare' & Confrontation with West?
+
+[Silicon Curtain](https://www.youtube.com/watch?v=yS92fohmlKs) | Mariia Zolkina - Using Negotiations to Pause, Regroup, Rearm and Attack Again is a Core Moscow Tactic
+
 [Vatnik Soup](https://vatniksoup.com/en/soups/100/) | False flag operations
 
 [Marcus Kolga et Christopher Ross](https://disinfowatch.org/canadian-vulnerability-to-russian-narratives-about-ukraine/) | Canadian Vulnerability to Russian Narratives about Ukraine: Disinfowatch report
@@ -45,6 +53,10 @@
 [Vatnik Soup](https://vatniksoup.com/en/soups/162/) | Russian info ops and the Global South
 
 [Vlad Vexler](https://www.youtube.com/watch?v=017WGzJ5fHA) | How Putin Fooled the Western Left
+
+#### Les crimes de guerre commis par la Russie / Russian war crimes
+
+#### La présence russe en Afrique / Russian presence in Africa
 
 [Silicon Curtain](https://www.youtube.com/watch?v=uZgI_ZfJMHY) | Beverly Ochieng - Wagner is Active in Africa Extracting Resources to Fuel Russia’s Global Ambitions
 
