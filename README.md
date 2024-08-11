@@ -12,6 +12,18 @@
 
 [BERLINSIDEOUT | Defending, Renewing & Spreading Liberal Democracy [Part 1]](https://berlinsideout.podigee.io/7-defending-renewing-spreading-liberal-democracy-pt-1)
 
+[The Right Mind | Benjamin Tallis on Status of the Zeitenwende, Neo-idealism, and Realism](https://www.youtube.com/watch?v=3CKmjw1gD40)
+
+[Andrew A. Michta | Three Decades of Delusion](https://www.the-american-interest.com/2020/08/04/three-decades-of-delusion/)
+
+[Andrew A. Michta | The West’s biggest vulnerability is internal](https://www.politico.eu/article/international-relations-america-washington-politics-western-society-democracy-war/)
+
+[Andrew A. Michta | Washington’s Failing Strategy in Ukraine Shows the Urgent Need for New Thinking](https://www.youtube.com/watch?v=0HKWabJqCtg)
+
+[Ania Zolyniak | Irregular Warfare in the 21st Century: Autocracy’s Global Playbook](https://irregularwarfare.org/articles/irregular-warfare-in-the-21st-century-autocracys-global-playbook/)
+
+[Timothy Garton Ash | Postimperial Empire: How the War in Ukraine Is Transforming Europe](https://www.foreignaffairs.com/ukraine/europe-war-russia-postimperial-empire)
+
 ### Le néo-idéalisme / Neo-idealism
 
 ### La menace russe / The Russian threat
