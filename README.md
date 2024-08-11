@@ -28,7 +28,13 @@
 
 ### La menace russe / The Russian threat
 
+[Aleksandr Dugin](https://en.wikipedia.org/wiki/Foundations_of_Geopolitics) | The Foundations of Geopolitics: The Geopolitical Future of Russia
+
 [Stehen R. Nagy](https://macdonaldlaurier.ca/russian-neo-imperialism-defence-of-ukraine-is-a-bellwether-for-the-success-or-failure-of-the-international-rule-of-law-stephen-nagy-for-inside-policy/) | Russian neo-imperialism - Defence of Ukraine is a bellwether for the success or failure of the international rule of law: Stephen Nagy for Inside Policy
+
+[Silicon Curtain](https://www.youtube.com/watch?v=iw1586Jv30g) | Andrew Wilson - 'Political Technology' Developed in Russia is Being Used to Dismantle Democracies
+
+[Vatnik Soup](https://vatniksoup.com/en/soups/100/) | False flag operations
 
 [Marcus Kolga et Christopher Ross](https://disinfowatch.org/canadian-vulnerability-to-russian-narratives-about-ukraine/) | Canadian Vulnerability to Russian Narratives about Ukraine: Disinfowatch report
 
@@ -39,6 +45,10 @@
 [Vatnik Soup](https://vatniksoup.com/en/soups/162/) | Russian info ops and the Global South
 
 [Vlad Vexler](https://www.youtube.com/watch?v=017WGzJ5fHA) | How Putin Fooled the Western Left
+
+[Silicon Curtain](https://www.youtube.com/watch?v=uZgI_ZfJMHY) | Beverly Ochieng - Wagner is Active in Africa Extracting Resources to Fuel Russia’s Global Ambitions
+
+[Silicon Curtain](https://www.youtube.com/watch?v=KcdwX1RbSDc) | Beverly Ochieng - One Year on from Prighozhin’s Mutiny, Wagner is Deeply Embedded in Africa's Sahel
 
 ### Westplaining
 
