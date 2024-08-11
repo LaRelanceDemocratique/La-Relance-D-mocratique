@@ -6,6 +6,8 @@
 
 ## La géopolitique / Geopolitics
 
+### Le néo-idéalisme / Neo-idealism
+
 [Benjamin Tallis](https://macdonaldlaurier.ca/neo-idealism-grand-strategy-for-the-future-of-the-transatlantic-community/) | Neo-idealism: Grand strategy for the future of the transatlantic community
 
 [BERLINSIDEOUT](https://berlinsideout.podigee.io/4-mastering-the-zeitenwende) | Mastering the Zeitenwende: Grand Strategy for Liberal Democracies
@@ -24,9 +26,19 @@
 
 [Timothy Garton Ash](https://www.foreignaffairs.com/ukraine/europe-war-russia-postimperial-empire) | Postimperial Empire: How the War in Ukraine Is Transforming Europe
 
-### Le néo-idéalisme / Neo-idealism
-
 ### La menace russe / The Russian threat
+
+[Stehen R. Nagy](https://macdonaldlaurier.ca/russian-neo-imperialism-defence-of-ukraine-is-a-bellwether-for-the-success-or-failure-of-the-international-rule-of-law-stephen-nagy-for-inside-policy/) | Russian neo-imperialism - Defence of Ukraine is a bellwether for the success or failure of the international rule of law: Stephen Nagy for Inside Policy
+
+[Marcus Kolga et Christopher Ross](https://disinfowatch.org/canadian-vulnerability-to-russian-narratives-about-ukraine/) | Canadian Vulnerability to Russian Narratives about Ukraine: Disinfowatch report
+
+[Razem (La Gauche Ensemble)](https://courrierdeuropecentrale.fr/chere-gauche-occidentale-on-ne-vous-demande-pas-daimer-lotan/) | « Chère gauche occidentale, on ne vous demande pas d’aimer l’OTAN… »
+
+[Vatnik Soup](https://vatniksoup.com/en/soups/78/) | NATO expansion 
+
+[Vatnik Soup](https://vatniksoup.com/en/soups/162/) | Russian info ops and the Global South
+
+[Vlad Vexler](https://www.youtube.com/watch?v=017WGzJ5fHA) | How Putin Fooled the Western Left
 
 ### Westplaining
 
