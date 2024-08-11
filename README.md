@@ -6,23 +6,23 @@
 
 ## La géopolitique / Geopolitics
 
-[Benjamin Tallis](https://macdonaldlaurier.ca/neo-idealism-grand-strategy-for-the-future-of-the-transatlantic-community/)| Neo-idealism: Grand strategy for the future of the transatlantic community
+[Benjamin Tallis](https://macdonaldlaurier.ca/neo-idealism-grand-strategy-for-the-future-of-the-transatlantic-community/) | Neo-idealism: Grand strategy for the future of the transatlantic community
 
-[BERLINSIDEOUT | Mastering the Zeitenwende: Grand Strategy for Liberal Democracies](https://berlinsideout.podigee.io/4-mastering-the-zeitenwende)
+[BERLINSIDEOUT](https://berlinsideout.podigee.io/4-mastering-the-zeitenwende) | Mastering the Zeitenwende: Grand Strategy for Liberal Democracies
 
-[BERLINSIDEOUT | Defending, Renewing & Spreading Liberal Democracy [Part 1]](https://berlinsideout.podigee.io/7-defending-renewing-spreading-liberal-democracy-pt-1)
+[BERLINSIDEOUT](https://berlinsideout.podigee.io/7-defending-renewing-spreading-liberal-democracy-pt-1) | Defending, Renewing & Spreading Liberal Democracy [Part 1]
 
-[The Right Mind | Benjamin Tallis on Status of the Zeitenwende, Neo-idealism, and Realism](https://www.youtube.com/watch?v=3CKmjw1gD40)
+[The Right Mind](https://www.youtube.com/watch?v=3CKmjw1gD40) | Benjamin Tallis on Status of the Zeitenwende, Neo-idealism, and Realism 
 
-[Andrew A. Michta | Three Decades of Delusion](https://www.the-american-interest.com/2020/08/04/three-decades-of-delusion/)
+[Andrew A. Michta](https://www.the-american-interest.com/2020/08/04/three-decades-of-delusion/) | Three Decades of Delusion
 
-[Andrew A. Michta | The West’s biggest vulnerability is internal](https://www.politico.eu/article/international-relations-america-washington-politics-western-society-democracy-war/)
+[Andrew A. Michta](https://www.politico.eu/article/international-relations-america-washington-politics-western-society-democracy-war/) | The West’s biggest vulnerability is internal
 
-[Andrew A. Michta | Washington’s Failing Strategy in Ukraine Shows the Urgent Need for New Thinking](https://www.youtube.com/watch?v=0HKWabJqCtg)
+[Andrew A. Michta](https://www.youtube.com/watch?v=0HKWabJqCtg) | Washington’s Failing Strategy in Ukraine Shows the Urgent Need for New Thinking
 
-[Ania Zolyniak | Irregular Warfare in the 21st Century: Autocracy’s Global Playbook](https://irregularwarfare.org/articles/irregular-warfare-in-the-21st-century-autocracys-global-playbook/)
+[Ania Zolyniak](https://irregularwarfare.org/articles/irregular-warfare-in-the-21st-century-autocracys-global-playbook/) | Irregular Warfare in the 21st Century: Autocracy’s Global Playbook
 
-[Timothy Garton Ash | Postimperial Empire: How the War in Ukraine Is Transforming Europe](https://www.foreignaffairs.com/ukraine/europe-war-russia-postimperial-empire)
+[Timothy Garton Ash](https://www.foreignaffairs.com/ukraine/europe-war-russia-postimperial-empire) | Postimperial Empire: How the War in Ukraine Is Transforming Europe
 
 ### Le néo-idéalisme / Neo-idealism
 
