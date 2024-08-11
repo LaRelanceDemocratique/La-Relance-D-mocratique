@@ -44,7 +44,39 @@
 
 ### La désinformation / Disinformation
 
-## Le Québec / Quebec
+### La surveillance et la vie privée / Surveillance and privacy
+
+### L'internet et les GAFAM / Internet and GAFAM
+
+### L'intelligence artificielle / Artificial intelligence
+
+### L'économie de la surveillance / Surveillance capitalism
+
+### La confiance dans les institutions publiqes / Trust in public institutions
+
+### La politique identitaire vs. l'universalisme / Identity politics vs. universalism
+
+### Le populisme et le sensationnalisme / Populism and sensationalism
+
+### L'ethnocentrisme / Ethnocentrism
+
+### La santé mentale / Mental health
+
+### L'aliénation / Alienation
+
+### Autres / Other
+
+## Le Québec
+
+### La politique québécoise / Québec politics
+
+### L'interculturalisme / Interculturalism
+
+### Les référendums au Québec / Québec referendums
 
 ## Le Canada / Canada
+
+### La politique canadienne / Canadian politics
+
+### Le multiculturalisme / Multiculturalism
 
