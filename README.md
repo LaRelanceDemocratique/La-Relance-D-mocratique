@@ -44,8 +44,6 @@
 
 #### La désinformation russe / Russian disinformation
 
-[Vatnik Soup](https://vatniksoup.com/en/soups/100/) | False flag operations
-
 [Marcus Kolga, Christopher Ross](https://disinfowatch.org/canadian-vulnerability-to-russian-narratives-about-ukraine/) | Canadian Vulnerability to Russian Narratives about Ukraine: Disinfowatch report
 
 [Razem (La Gauche Ensemble)](https://courrierdeuropecentrale.fr/chere-gauche-occidentale-on-ne-vous-demande-pas-daimer-lotan/) | « Chère gauche occidentale, on ne vous demande pas d’aimer l’OTAN… »
@@ -55,6 +53,8 @@
 [Vatnik Soup](https://vatniksoup.com/en/soups/162/) | Russian info ops and the Global South
 
 [Vlad Vexler](https://www.youtube.com/watch?v=017WGzJ5fHA) | How Putin Fooled the Western Left
+
+[Vatnik Soup](https://vatniksoup.com/en/soups/100/) | False flag operations
 
 #### Les crimes de guerre commis par la Russie / Russian war crimes
 
