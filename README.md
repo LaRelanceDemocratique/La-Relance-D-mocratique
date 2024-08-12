@@ -222,7 +222,7 @@
 
 [Philosophize This!](https://www.youtube.com/watch?v=gvF1-ZU_3vM) | Episode #203 ... Why the future is being slowly cancelled. - Postmodernism (Mark Fisher)
 
-[Rana Foroohar](https://www.foreignaffairs.com/united-states/after-neoliberalism-all-economics-is-local-rana-foroohar) | After Neoliberalism
+[Rana Foroohar](https://www.foreignaffairs.com/united-states/after-neoliberalism-all-economics-is-local-rana-foroohar) | After Neoliberalism: All Economics Is Local
 
 ### Le néolibéralisme au Québec / Neoliberalism in Quebec
 
