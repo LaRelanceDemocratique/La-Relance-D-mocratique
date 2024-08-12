@@ -226,6 +226,20 @@
 
 ### Le néolibéralisme au Québec / Neoliberalism in Quebec
 
+[IRIS, institut de recherche](https://www.youtube.com/playlist?list=PLTQQPV0oG_1UuCqV4uIxSDOaQjo2U00t5) | Néolibéralisme
+
+[Revue Liberté](https://www.youtube.com/watch?v=spFGt1RD2yE&t=17s) | L’idéologie derrière les mesures d’austérité - Éric Pineault
+
+[Revue Liberté](https://www.youtube.com/watch?v=gDNClnpfrv8&t=1721s) | L’impact de l'austérité sur les arts et les sciences - Ianik Marcil
+
+[Revue Liberté](https://www.youtube.com/watch?v=lXBraDVaKoo) | Austérité et reconfiguration de l’État - Robert Laplante
+
+[Revue Liberté](https://www.youtube.com/watch?v=AwD1gNco9gg) | Des CLSC aux CIUSSS: une politique de fusion, une atteinte au réseau public de santé
+
+[Gabriel Arsenault](https://doi.org/10.22230/cjnser.2018v9n1a237) | Explaining Quebec's Social Economy Turn
+
+[Gil Courtemanche](https://www.youtube.com/watch?v=OOfQSVDFr6s) | 1973 Boulevard Curé-Labelle
+
 ### Les inégalités de genre / Gender inequality
 
 ## Le changement climatique / Climate change
