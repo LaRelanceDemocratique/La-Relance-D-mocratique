@@ -42,9 +42,11 @@
 
 [Silicon Curtain](https://www.youtube.com/watch?v=yS92fohmlKs) | Mariia Zolkina - Using Negotiations to Pause, Regroup, Rearm and Attack Again is a Core Moscow Tactic
 
+#### La désinformation russe / Russian disinformation
+
 [Vatnik Soup](https://vatniksoup.com/en/soups/100/) | False flag operations
 
-[Marcus Kolga et Christopher Ross](https://disinfowatch.org/canadian-vulnerability-to-russian-narratives-about-ukraine/) | Canadian Vulnerability to Russian Narratives about Ukraine: Disinfowatch report
+[Marcus Kolga, Christopher Ross](https://disinfowatch.org/canadian-vulnerability-to-russian-narratives-about-ukraine/) | Canadian Vulnerability to Russian Narratives about Ukraine: Disinfowatch report
 
 [Razem (La Gauche Ensemble)](https://courrierdeuropecentrale.fr/chere-gauche-occidentale-on-ne-vous-demande-pas-daimer-lotan/) | « Chère gauche occidentale, on ne vous demande pas d’aimer l’OTAN… »
 
@@ -64,6 +66,14 @@
 
 [Associated Press](https://www.theguardian.com/world/2023/jul/20/belarus-red-cross-says-it-is-involved-in-transfer-of-children-out-of-ukraine) | Belarus Red Cross says it is involved in transfer of children out of Ukraine
 
+#### Comprendre la Russie / Understanding Russia
+
+[Vlad Vexler](https://www.youtube.com/watch?v=V6UiEXrVrvg) | THIS explains why Russia starts insane wars
+
+[Vlad Vexler](https://www.youtube.com/watch?v=K4O3D7CfThA) | The Riddle of Why Russians Don't Protest
+
+[Vlad Vexler](https://www.youtube.com/watch?v=d1pOahq4TCk) | Why All Russians Are Responsible for Putin's War
+
 #### La présence russe en Afrique / Russian presence in Africa
 
 [Silicon Curtain](https://www.youtube.com/watch?v=uZgI_ZfJMHY) | Beverly Ochieng - Wagner is Active in Africa Extracting Resources to Fuel Russia’s Global Ambitions
@@ -72,9 +82,67 @@
 
 ### Westplaining
 
-### L'ingérance étrangère / Foreign interference
+[Wikipedia](https://en.wikipedia.org/wiki/Westsplaining) | Westplaining
+
+[Patryk I. Labuda](https://www.ejiltalk.org/on-eastern-europe-whataboutism-and-westsplaining-some-thoughts-on-international-lawyers-responses-to-ukraine/) | On Eastern Europe, ‘Whataboutism’ and ‘West(s)plaining’: Some Thoughts on International Lawyers’ Responses to Ukraine
+
+[Aliaksei Kazharski](https://ukrainian-studies.ca/2022/07/19/explaining-the-westsplainers-can-a-western-scholar-be-an-authority-on-central-and-eastern-europe/) | Explaining the “Westsplainers”: Can a Western scholar be an authority on Central and Eastern Europe?
+
+[Viktoriia Lapa](https://theconversation.com/the-eu-should-stop-westsplaining-and-listen-to-its-smaller-eastern-members-they-saw-the-ukraine-war-coming-226165) | The EU should stop ‘westsplaining’ and listen to its smaller eastern members – they saw the Ukraine war coming
+
+[Edward Lucas](https://cepa.org/article/its-time-to-stop-westsplaining/) | It’s Time to Stop “Westsplaining”
+
+### L'ingérence étrangère et le Canada / Foreign interference and Canada
+
+[Marie Lamensch](https://www.cigionline.org/articles/foreign-interference-is-targeting-diaspora-communities-in-canada/) | Foreign Interference Is Targeting Diaspora Communities in Canada
+
+[Katherine Leung](https://macdonaldlaurier.ca/canadas-new-foreign-agents-registry-could-do-more-to-protect-diaspora-communities-katherine-leung-for-inside-policy/) | Canada’s new foreign agents registry could do more to protect diaspora communities: Katherine Leung for Inside Policy
+
+#### L'ingérence chinoise / Chinese interference
+
+[Amnesty International](https://amnesty.ca/human-rights-news/students-canadian-universities-surveillance-harassment-chinese-state-authorities/) | Students at Canadian universities face surveillance, harassment by Chinese state authorities, Amnesty reports
+
+[Joanna Chiu](https://www.thestar.com/news/canada/a-chinese-student-in-canada-had-two-followers-on-twitter-he-still-didn-t-escape/article_6800d3f1-38e6-5c6f-a551-ea4d9f500997.html) | A Chinese student in Canada had two followers on Twitter. He still didn’t escape Beijing’s threats over online activity
+
+[Nadine Yousif](https://www.bbc.com/news/world-us-canada-64909560) | Canadian police investigate Chinese 'police stations' in Quebec
+
+#### L'ingérence indienne / Indian interference
+
+[Shweta Sharma](https://www.independent.co.uk/asia/india/canada-india-threat-china-trudeau-modi-b2557893.html) | India second biggest foreign threat to Canada after China, says government panel
+
+[Murtaza Hussain, Ryan Grim](https://theintercept.com/2023/12/10/india-sikhs-leaked-memo-us-canada/) | Secret Indian Memo Ordered "Concrete Measures" Against Hardeep Singh Nijjar Two Months Before His Assassination in Canada
 
 ### Les impérialismes / Imperialism
+
+#### L'impérialisme russe / Russian imperialism
+
+[Botakoz Kassymbekova](https://www.aljazeera.com/opinions/2023/1/24/how-western-scholars-overlooked-russian-imperialism) | How Western scholars overlooked Russian imperialism
+
+[Todd Prince](https://www.rferl.org/a/russia-war-ukraine-western-academia/32201630.html) | Moscow's Invasion Of Ukraine Triggers 'Soul-Searching' At Western Universities As Scholars Rethink Russian Studies
+
+[Artem Shaipov](https://foreignpolicy.com/2023/02/11/russia-studies-war-ukraine-decolonize-imperialism-western-academics-soviet-empire-eurasia-eastern-europe-university/) | It’s High Time to Decolonize Western Russia Studies
+
+[European Resilience Initiative Center](https://www.youtube.com/watch?v=jSNRPFu_LuY) | The Origins of Russian Colonialism: From Pushkin to Putin by Prof. Dr. Ewa Thompson
+
+[European Resilience Initiative Center](https://www.youtube.com/watch?v=q5MFjFR-0yU) | Modus Operandi of Russian Colonialism
+
+[Oleksandr Polianichev](https://www.aljazeera.com/opinions/2023/5/24/how-russia-tried-to-colonise-africa-and-failed) | How Russia tried to colonise Africa and failed
+
+[Ghost Countries](https://www.youtube.com/watch?v=F5VYl76eEFY) | Sagallo: Russia's African Colony
+
+[Ghost Countries](https://www.youtube.com/watch?v=b-wvDzCJCBw&t=342s) | The Battle of Sagallo: Downfall of Russia's African Colony
+
+#### L'impérialisme chinois / Chinese imperialism
+
+[Good Times Bad Times](https://www.youtube.com/watch?v=CQz2wbZMuMo) | How Is China Shaping The New World Order?
+
+[Good Times Bad Times](https://www.youtube.com/watch?v=akZ85AJwFGg) | How China Conquers Europe via EU's Green Deal?
+
+[The Associated Press](https://apnews.com/article/china-map-territorial-dispute-south-sea-702c45165d7f9cade796700fffa5691e) | China’s new national map has set off a wave of protests. Why?
+
+#### Autres / Other
+
+[M. Laser History](https://www.youtube.com/watch?v=xU2KwlWL1Us) | Introduction to the Slave Trade of the Slavs
 
 ### La migration humaine / Human migration
 
