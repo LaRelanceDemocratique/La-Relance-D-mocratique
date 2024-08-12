@@ -208,6 +208,22 @@
 
 ### Comprendre le néolibéralisme / Understanding neoliberalism
 
+[BarakalypseNow](https://www.youtube.com/playlist?list=PLATIVW2S3zKMbVlnAHAPR0sHZisHJl4fd) | This Is Neoliberalism
+
+[The Court's Sense](https://www.youtube.com/watch?v=nrh9746WyQ4) | How would a Neo-liberal Utopia look like? | Utopia series - Essay 2
+
+[David Harvey](https://academic.oup.com/book/40603) | A Brief History of Neoliberalism
+
+[Jonathan Swarts](https://utorontopress.com/9781487555559/constructing-neoliberalism/) | Constructing Neoliberalism: Economic Transformation in Anglo-American Democracies
+
+[Harold Crooks](https://www.thepricewepay.ca) | The Price We Pay
+
+[Philosophize This!](https://www.youtube.com/watch?v=sIXVO-MuK_M&list=PLNckC0e-exRgHhdDzX4nWN8DMGoEBqw7m) | Ep. #202 ... Why we can't think beyond capitalism. - Neoliberalism (Mark Fisher, Capitalist Realism)
+
+[Philosophize This!](https://www.youtube.com/watch?v=gvF1-ZU_3vM) | Episode #203 ... Why the future is being slowly cancelled. - Postmodernism (Mark Fisher)
+
+[Rana Foroohar](https://www.foreignaffairs.com/united-states/after-neoliberalism-all-economics-is-local-rana-foroohar) | After Neoliberalism
+
 ### Le néolibéralisme au Québec / Neoliberalism in Quebec
 
 ### Les inégalités de genre / Gender inequality
