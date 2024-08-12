@@ -140,15 +140,37 @@
 
 [The Associated Press](https://apnews.com/article/china-map-territorial-dispute-south-sea-702c45165d7f9cade796700fffa5691e) | China’s new national map has set off a wave of protests. Why?
 
+[Bernard Condon](https://apnews.com/article/china-debt-banking-loans-financial-developing-countries-collapse-8df6f9fac3e1e758d0e6d8d5dfbd3ed6) | China’s loans pushing world’s poorest countries to brink of collapse
+
+[Melissa Chan](https://www.washingtonpost.com/opinions/2022/01/31/china-authoritarian-fascism-totalitarian-uyghurs-surveillance/) | China isn’t just ‘authoritarian’ any more. It’s scarier.
+
+[BBC News](https://www.youtube.com/watch?v=HTp54QwxV8U) | Hacked files reveal Chinese “shoot-to-kill” policy in Uighur detention camps
+
+[VICE News](https://www.youtube.com/watch?v=RrplLEQQMnE) | Uyghurs Who Fled China Now Face Repression in Pakistan
+
 #### Autres / Other
 
 [M. Laser History](https://www.youtube.com/watch?v=xU2KwlWL1Us) | Introduction to the Slave Trade of the Slavs
 
 ### La migration humaine / Human migration
 
+[Big Think](https://www.youtube.com/watch?v=s5PigZzSAJo&t=706s) | Slavoj Žižek on Refugees, Conservatism, and Cultural Incompatibility
+
 ### Le conflit israélo-palestinien / The Israeli-Palestinian conflict
 
+[Le Monde](https://www.youtube.com/watch?v=bsshqmEAo8I) | Israël - Palestine : pourquoi la paix semble impossible
+
+[Le Monde](https://www.youtube.com/watch?v=ktrCmfLMefc) | Pourquoi l’avenir du Moyen-Orient dépend autant d’Israël #Mappemonde Ep. 10
+
+[Monika Bolliger, Julia Amalia Heyer, Susanne Koelbl, Christoph Reuter, Fritz Schaap, Thore Schröder, Bernhard Zand](https://www.spiegel.de/international/world/a-gaza-conundrum-the-story-behind-the-rise-of-hamas-a-d9e30bb6-2295-45a1-825c-dbd0c43c3613) | A Gaza Conundrum: The Story Behind the Rise of Hamas
+
+[ARTE](https://www.youtube.com/watch?v=_vc8G5YybMc) | Hamas : la fabrique d'un monstre
+
 ### Autres / Other
+
+[Versed](https://www.youtube.com/watch?v=t-rRPtDWR4w) | How The US Just Expanded By 400,000 Miles
+
+[Vox](https://www.youtube.com/watch?v=pf1GvrUqeIA) | The race to mine the bottom of the ocean
 
 ## Le néolibéralisme / Neoliberalism
 
