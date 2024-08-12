@@ -158,7 +158,11 @@
 
 ### Le conflit israélo-palestinien / The Israeli-Palestinian conflict
 
+#### Les origines du conflit / The origins of the conflict
+
 [Yuriy Matsarsky](https://theins.ru/en/history/266486) | Born in the flames of resolutions: The history and underlying causes of the Arab-Israeli conflict
+
+#### La confusion morale / Moral confusion
 
 [Yuriy Matsarsky](https://theins.ru/en/society/272254) | Illegally promised land: How the issue of settlements in the Palestinian territories divided Jewish believers
 
@@ -169,6 +173,8 @@
 [ARTE](https://www.youtube.com/watch?v=v_m6KfmhB7I) | Israël : borderlines
 
 [ARTE](https://www.youtube.com/watch?v=CV0gVMy5u9s) | Israël : Sdérot, le deuxième Israël
+
+#### La guerre israélo-arab / The Arab-Israeli war
 
 [Good Times Bad Times](https://www.youtube.com/watch?v=_p6wtzEKIOg) | Lessons from The Fifth Arab-Israeli War
 
