@@ -158,6 +158,24 @@
 
 ### Le conflit israélo-palestinien / The Israeli-Palestinian conflict
 
+[Yuriy Matsarsky](https://theins.ru/en/history/266486) | Born in the flames of resolutions: The history and underlying causes of the Arab-Israeli conflict
+
+[Yuriy Matsarsky](https://theins.ru/en/society/272254) | Illegally promised land: How the issue of settlements in the Palestinian territories divided Jewish believers
+
+[Eva Illouz](https://english.elpais.com/opinion/2024-04-18/iran-israel-and-moral-confusion.html) | Iran, Israel and moral confusion
+
+[Andrew Roman](https://macdonaldlaurier.ca/activism-or-antisemitism/) | Free Speech or Hate Crimes?
+
+[ARTE](https://www.youtube.com/watch?v=v_m6KfmhB7I) | Israël : borderlines
+
+[ARTE](https://www.youtube.com/watch?v=CV0gVMy5u9s) | Israël : Sdérot, le deuxième Israël
+
+[Good Times Bad Times](https://www.youtube.com/watch?v=_p6wtzEKIOg) | Lessons from The Fifth Arab-Israeli War
+
+[Good Times Bad Times](https://www.youtube.com/watch?v=0GCT-CwWRUU) | Israel Has No Post-War Gaza Strategy
+
+[José María Ridao](https://english.elpais.com/opinion/2024-04-03/israel-and-forever-wars.html) | Israel and forever wars
+
 [Le Monde](https://www.youtube.com/watch?v=bsshqmEAo8I) | Israël - Palestine : pourquoi la paix semble impossible
 
 [Le Monde](https://www.youtube.com/watch?v=ktrCmfLMefc) | Pourquoi l’avenir du Moyen-Orient dépend autant d’Israël #Mappemonde Ep. 10
@@ -165,6 +183,14 @@
 [Monika Bolliger, Julia Amalia Heyer, Susanne Koelbl, Christoph Reuter, Fritz Schaap, Thore Schröder, Bernhard Zand](https://www.spiegel.de/international/world/a-gaza-conundrum-the-story-behind-the-rise-of-hamas-a-d9e30bb6-2295-45a1-825c-dbd0c43c3613) | A Gaza Conundrum: The Story Behind the Rise of Hamas
 
 [ARTE](https://www.youtube.com/watch?v=_vc8G5YybMc) | Hamas : la fabrique d'un monstre
+
+[Timothy Snyder](https://snyder.substack.com/p/terror-and-counter-terror) | Terror and counter-terror: A reflection on Hamas and Israel
+
+[Foreign Affairs](https://www.youtube.com/watch?v=rf94prGX3VQ) | Oona Hathaway: Gaza and the Breakdown of International Law
+
+[Francis J. Gavin](https://warontherocks.com/2024/05/what-exactly-are-we-doing/) | What Exactly Are We Doing?
+
+[Abe Silberstein, Yael Mizrahi-Arnaud](https://warontherocks.com/2023/12/after-israel-defeats-hamas-the-united-states-should-recognize-palestine/) | After Israel Defeats Hamas, the United States Should Recognize Palestine
 
 ### Autres / Other
 
