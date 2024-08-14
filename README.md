@@ -7,12 +7,10 @@
 1. [La géopolitique / Geopolitics](#la-géopolitique-/-geopolitics)
 
 <a name="la-géopolitique-/-geopolitics" />
-
+<b name="le-néo-idéalisme-/-neo-idealism" />
   * [Le néo-idéalisme / Neo-idealism](#le-néo-idéalisme-/-/neo-idealism)
 
 ## La géopolitique / Geopolitics
-
-<a name="le-néo-idéalisme-/-neo-idealism" />
 
 ### Le néo-idéalisme / Neo-idealism
 
