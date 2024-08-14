@@ -8,7 +8,10 @@
 <a name="la-géopolitique-/-geopolitics" />
 
    * [Le néo-idéalisme / Neo-idealism](#le-néo-idéalisme-/-neo-idealism)
-<b name="le-néo-idéalisme-/-neo-idealism" />
+<a name="le-néo-idéalisme-/-neo-idealism" />
+
+  * [La menace russe / The Russian threat](#la-menace-russe-/-the-russian-threat)
+<a name="la-menace-russe-/-the-russian-threat" />
 
 ## La géopolitique / Geopolitics
 
