@@ -362,6 +362,12 @@
 
 ### Le populisme et le sensationnalisme / Populism and sensationalism
 
+[TED-Ed](https://www.youtube.com/watch?v=uMNwUh0X5eI) | The rise of modern populism - Takis S. Pappas
+
+[Stephan Jensen](https://quillette.com/2022/05/13/the-hard-left-and-populist-right-agree-on-all-the-wrong-things/) | The Hard Left and Populist Right Agree on All the Wrong Things
+
+[Slavoj Žižek](https://www.youtube.com/watch?v=WdR-YThyihw) | Why I am against left-wing populism
+
 ### L'ethnocentrisme / Ethnocentrism
 
 ### La santé mentale / Mental health
