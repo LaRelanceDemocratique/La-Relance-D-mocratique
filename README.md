@@ -7,7 +7,7 @@
 1. [La géopolitique / Geopolitics](#la-géopolitique-/-geopolitics)
   * [Le néo-idéalisme / Neo-idealism](#le-néo-idéalisme-/-neo-idealism)
   * [La menace russe / The Russian threat](#la-menace-russe-/-the-russian-threat)
-    *
+    *d
 
 <a name="la-géopolitique-/-geopolitics" />
 
