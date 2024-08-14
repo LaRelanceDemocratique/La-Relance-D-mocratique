@@ -458,11 +458,11 @@
 
 [Murray Brewster](https://www.cbc.ca/news/politics/nato-spending-trudeau-joly-business-council-canada-1.7231776) | Canada risks 'diplomatic isolation' if it fails to meet NATO spending target, business leaders warn
 
-[Jocelyn Coulon](https://www.lapresse.ca/debats/2021-08-29/le-canada-a-la-recherche-d-une-identite-internationale/le-declin-et-l-effacement-d-un-certain-canada.php) | Le Canada à la recherche d’une identité internationale
-
 [Louise Blais](https://policyoptions.irpp.org/fr/magazines/september-2023/canada-diplomatie-signalement-vertu/) | La diplomatie canadienne s’est égarée; elle doit se retrouver
 
 [Jocelyn Coulon](https://www.ledevoir.com/opinion/idees/799885/idees-canada-peut-il-encore-faire-place-scene-internationale) | Le Canada peut-il encore se faire une place sur la scène internationale?
+
+[Jocelyn Coulon](https://www.lapresse.ca/debats/2021-08-29/le-canada-a-la-recherche-d-une-identite-internationale/le-declin-et-l-effacement-d-un-certain-canada.php) | Le Canada à la recherche d’une identité internationale
 
 [David Mulroney, Obianuju Ekeocha](https://macdonaldlaurier.ca/memo-to-canada-talk-less-and-listen-more-to-the-rest-of-the-world-david-mulroney-and-obianuju-ekeocha-in-the-national-post/) | Memo to Canada – Talk less and listen more to the rest of the world
 
@@ -470,13 +470,13 @@
 
 #### L'Arctique / The Arctic
 
-[Joanna Hosa](https://ecfr.eu/publication/feeling-the-chill-navigating-arctic-governance-amid-russias-war-on-ukraine/) | Feeling the chill: Navigating Arctic governance amid Russia’s war on Ukraine
-
-[TLDR News Global](https://www.youtube.com/watch?v=MGxXb-WQcjg) | Arctic War: The Growing Tensions over Arctic Resources
-
 [DW Planet A](https://www.youtube.com/watch?v=hvRzWzQW2go) | The race for the Arctic is ramping up. Here’s why.
 
 [The Guardian](https://www.youtube.com/watch?v=EZOWbWuMKDI) | How Russia is taking control of the Arctic | It's Complicated
+
+[Joanna Hosa](https://ecfr.eu/publication/feeling-the-chill-navigating-arctic-governance-amid-russias-war-on-ukraine/) | Feeling the chill: Navigating Arctic governance amid Russia’s war on Ukraine
+
+[TLDR News Global](https://www.youtube.com/watch?v=MGxXb-WQcjg) | Arctic War: The Growing Tensions over Arctic Resources
 
 [DW News](https://www.youtube.com/watch?v=BxqQqfDJ1Bc) | Geopolitical tensions between NATO and Russia increase in the Arctic
 
@@ -504,9 +504,9 @@
 
 [Adam Zivo](https://nationalpost.com/opinion/adam-zivo-how-canada-sabotaged-its-own-fleet-of-tanks) | How Canada sabotaged its own fleet of tanks
 
-[CBC News: The National](https://www.youtube.com/watch?v=_fiRhsKOFqY) | The world is at a ‘turning point’ — is Canada’s military ready?
-
 [Richard Shimooka](https://macdonaldlaurier.ca/canadas-military-left-behind/) | Canada’s military is being left behind
+
+[CBC News: The National](https://www.youtube.com/watch?v=_fiRhsKOFqY) | The world is at a ‘turning point’ — is Canada’s military ready?
 
 ### Le multiculturalisme / Multiculturalism
 
