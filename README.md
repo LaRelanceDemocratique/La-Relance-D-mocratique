@@ -294,15 +294,49 @@
 
 ### La désinformation / Disinformation
 
+[Rana Ali Adeeb](https://www.ledevoir.com/opinion/idees/816968/comment-emotions-alimentent-fausses-nouvelles-reseaux-sociaux) | Comment les émotions alimentent les fausses nouvelles sur les réseaux sociaux
+
+[Uriel Epshtein](https://rdi.org/articles/telling-the-truth-without-getting-anyone-killed/) | Telling The Truth Without Getting Anyone Killed
+
+[The Soup Central](https://www.youtube.com/watch?v=PA0XntvAglk) | Soup Talk with Jakub Kalenský (disinformation expert)
+
+[Układ Sił](https://www.youtube.com/watch?v=-5GrGjRfAJw) | Rumena Filipova - Strategies to Counter Disinformation
+
+[Paige Collings, Jillian C. York](https://www.eff.org/deeplinks/2023/10/social-media-platforms-must-do-better-when-handling-misinformation-especially) | Social Media Platforms Must Do Better When Handling Misinformation, Especially During Moments of Conflict
+
+[Josh Richman, Nathan Sheard](https://www.eff.org/deeplinks/2024/03/protect-yourself-election-misinformation) | Protect Yourself from Election Misinformation
+
+[Charlotte Maher](https://www.bellingcat.com/resources/how-tos/2023/10/26/separating-fact-from-fiction-on-social-media-in-times-of-conflict/) | Separating Fact from Fiction on Social Media in Times of Conflict
+
 ### La surveillance et la vie privée / Surveillance and privacy
+
+[TED](https://www.youtube.com/watch?v=pcSlowAhvUk) | Glenn Greenwald: Why privacy matters
+
+[DuckDuckGo](https://spreadprivacy.com/three-reasons-why-the-nothing-to-hide-argument-is-flawed/) | Three Reasons Why the "Nothing to Hide" Argument is Flawed
+
+[Wikipedia](https://en.wikipedia.org/wiki/Nothing_to_hide_argument) | Nothing to hide argument
 
 ### L'internet et les GAFAM / Internet and GAFAM
 
+[C. Thi Nguyen](https://theconversation.com/the-problem-of-living-inside-echo-chambers-110486) | The problem of living inside echo chambers
+
+[Bellingcat](https://www.bellingcat.com/what-is-bellingcats-ja-unit-december-2022/) | What is Bellingcat's Justice and Accountability Unit?
+
 ### L'intelligence artificielle / Artificial intelligence
+
+[Good Times Bad Times](https://www.youtube.com/watch?v=QhnQsOHjdPE) | AI Origins. Will It Kill Us Or Save Us?
+
+[DW News](https://www.youtube.com/watch?v=DjZptKfGTZ0) | EU lawmakers approve world's first legal framework on Artificial Intelligence
 
 ### L'économie de la surveillance / Surveillance capitalism
 
+[vpro documentary](https://www.youtube.com/watch?v=hIXhnWUmMvw) | Shoshana Zuboff on surveillance capitalism
+
+[BBC Ideas](https://www.youtube.com/watch?v=4oOCLIrB-0c) | Viewpoint: ‘We’re living in an age of surveillance capitalism’
+
 ### La confiance dans les institutions publiqes / Trust in public institutions
+
+[Vlad Vexler](https://www.youtube.com/watch?v=5laM89Qxykc&start=151) | We Are Losing Trust in Political Institutions
 
 ### La politique identitaire vs. l'universalisme / Identity politics vs. universalism
 
