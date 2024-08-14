@@ -230,6 +230,8 @@
 
 [Revue Liberté](https://www.youtube.com/watch?v=spFGt1RD2yE&t=17s) | L’idéologie derrière les mesures d’austérité - Éric Pineault
 
+[Revue Liberté](https://www.youtube.com/watch?v=m4KeY7UGWcc) | L’impact de l'austérité sur les femmes - Eve-Lyne Couturier
+
 [Revue Liberté](https://www.youtube.com/watch?v=gDNClnpfrv8&t=1721s) | L’impact de l'austérité sur les arts et les sciences - Ianik Marcil
 
 [Revue Liberté](https://www.youtube.com/watch?v=lXBraDVaKoo) | Austérité et reconfiguration de l’État - Robert Laplante
@@ -240,17 +242,53 @@
 
 [Gil Courtemanche](https://www.youtube.com/watch?v=OOfQSVDFr6s) | 1973 Boulevard Curé-Labelle
 
-### Les inégalités de genre / Gender inequality
-
 ## Le changement climatique / Climate change
 
 ### Général / General
 
+[Beth Lord](https://przekroj.org/en/world-people/we-are-nature/) | We Are Nature
+
+[Anna Tatarska](https://przekroj.org/en/world-people/humans-need-nature-to-blossom/) | Humans Need Nature to Blossom: An Interview with Sue Stuart-Smith
+
+[Roxane Léouzon](https://www.ledevoir.com/environnement/794245/environnement-des-astuces-de-grands-parents-pour-sauver-la-planete-ou-eviter-le-gaspillage) | Des astuces de grands-parents pour sauver la planète (ou éviter le gaspillage)
+
+[Patryk Zakrzewski](https://culture.pl/en/article/tips-from-poland-on-old-school-zero-waste) | Tips from Poland on Old-School Zero Waste
+
+[Slavoj Žižek](https://www.youtube.com/watch?v=B62ue38kiF4) | The ideology of Environmental Activism
+
+[FORA.tv](https://www.youtube.com/watch?v=yzcfsq1_bt8) | Slavoj Žižek: The Delusion of Green Capitalism
+
 ### L'obsolescence programmée / Planned obsolescence
+
+[European Parliament](https://www.youtube.com/watch?v=toIFN8eR0ro) | Planned obsolescence: Why things don't last
+
+[La Presse canadienne](https://www.ledevoir.com/politique/quebec/799273/projet-loi-contre-obsolescence-programmee-est-adopte-unanimite) | Le projet de loi contre l’obsolescence programmée est adopté à l’unanimité
 
 ### Les alternatives au capitalism / Alternatives to capitalism
 
+[Paulina Wilk](https://przekroj.org/en/world-people/better-not-to-cross-the-dreamer/) | The World’s Bravest Economist: The Revolutionary Economist
+
+[Katarzyna Michalczak](https://przekroj.org/en/world-people/what-comes-after-growth/) | What Comes After Growth? An Interview about Food Sovereignty and Cooperativism
+
 ## L'amènagement urbain / Urban planning
+
+[Not Just Bikes](https://www.youtube.com/watch?v=VvdQ381K5xg) | The Great Places Erased by Suburbia (the Third Place)
+
+[Alexis Riopel](https://www.ledevoir.com/societe/794244/l-histoire-a-l-envers-j-ai-grandi-dans-une-civilisation-sans-auto) | « J’ai grandi dans une civilisation sans auto »
+
+[Thomas Fuller](https://www.nytimes.com/2024/03/17/realestate/paris-france-housing-costs.html?unlocked_article_code=1.d00.QJwv.pEzIf1_yWRu9) | How Does Paris Stay Paris? By Pouring Billions Into Public Housing
+
+[Adam Something](https://www.youtube.com/watch?v=1eIxUuuJX7Y) | Commie Blocks Are Pretty Good, Actually
+
+[Not Just Bikes](https://www.youtube.com/watch?v=_yDtLv-7xZ4) | I Visited the Best* City in North America
+
+[NFKRZ](https://www.youtube.com/watch?v=J4LXGAORfNY) | Why Russia plans cities even worse than the USSR
+
+[History Hustle](https://www.youtube.com/watch?v=mrqv1UbF6nU) | Nowa Huta – Socialist Realism: The Communist Utopia in Poland
+
+[Maude Brunet](https://theconversation.com/megaprojets-la-centralisation-est-elle-une-garantie-defficacite-224801) | Mégaprojets : la centralisation est-elle une garantie d’efficacité?
+
+[About Here](https://www.youtube.com/watch?v=sKudSeqHSJk) | The Non-capitalist Solution to the Housing Crisis
 
 ## Les enjeux contemporains / Contemporary issues
 
