@@ -16,6 +16,7 @@
 <a name="la-géopolitique-/-geopolitics" />
 ### Le néo-idéalisme / Neo-idealism
 <a name="le-néo-idéalisme-/-neo-idealism" />
+
 [Benjamin Tallis](https://macdonaldlaurier.ca/neo-idealism-grand-strategy-for-the-future-of-the-transatlantic-community/) | Neo-idealism: Grand strategy for the future of the transatlantic community
 
 [BERLINSIDEOUT](https://berlinsideout.podigee.io/4-mastering-the-zeitenwende) | Mastering the Zeitenwende: Grand Strategy for Liberal Democracies
@@ -40,6 +41,7 @@
 
 ### La menace russe / The Russian threat
 <a name="la-menace-russe-/-the-russian-threat" />
+
 [Aleksandr Dugin](https://en.wikipedia.org/wiki/Foundations_of_Geopolitics) | The Foundations of Geopolitics: The Geopolitical Future of Russia
 
 [Stehen R. Nagy](https://macdonaldlaurier.ca/russian-neo-imperialism-defence-of-ukraine-is-a-bellwether-for-the-success-or-failure-of-the-international-rule-of-law-stephen-nagy-for-inside-policy/) | Russian neo-imperialism - Defence of Ukraine is a bellwether for the success or failure of the international rule of law: Stephen Nagy for Inside Policy
