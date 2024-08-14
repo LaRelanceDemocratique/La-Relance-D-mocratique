@@ -8,9 +8,9 @@
 
 <a name="la-géopolitique-/-geopolitics" />
  
-  * [Le néo-idéalisme / Neo-idealism](#le-néoidéalisme-/-/neoidealism)
+  * [Le néo-idéalisme / Neo-idealism](#le-néo-idéalisme-/-neo-idealism)
 
-<b name="le-néoidéalisme-/-neoidealism" />
+<b name="le-néo-idéalisme-/-neo-idealism" />
 
 ## La géopolitique / Geopolitics
 
