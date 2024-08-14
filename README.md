@@ -9,9 +9,11 @@
   * [La menace russe / The Russian threat](#la-menace-russe-/-the-russian-threat)
 
 <a name="la-géopolitique-/-geopolitics" />
+
 ## La géopolitique / Geopolitics
 
 <a name="le-néo-idéalisme-/-neo-idealism" />
+
 ### Le néo-idéalisme / Neo-idealism
 
 [Benjamin Tallis](https://macdonaldlaurier.ca/neo-idealism-grand-strategy-for-the-future-of-the-transatlantic-community/) | Neo-idealism: Grand strategy for the future of the transatlantic community
@@ -37,6 +39,7 @@
 [Timothy Garton Ash](https://www.foreignaffairs.com/ukraine/europe-war-russia-postimperial-empire) | Postimperial Empire: How the War in Ukraine Is Transforming Europe
 
 <a name="la-menace-russe-/-the-russian-threat" />
+
 ### La menace russe / The Russian threat
 
 [Aleksandr Dugin](https://en.wikipedia.org/wiki/Foundations_of_Geopolitics) | The Foundations of Geopolitics: The Geopolitical Future of Russia
