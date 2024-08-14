@@ -4,6 +4,8 @@
 
 ## Table de matières / Table of contents 
 
+1. [defines](#la-géopolitique-/-geopolitics)
+
 ## La géopolitique / Geopolitics
 
 ### Le néo-idéalisme / Neo-idealism
