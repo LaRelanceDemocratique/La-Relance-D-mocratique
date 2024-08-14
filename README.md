@@ -42,6 +42,8 @@
 
 [Silicon Curtain](https://www.youtube.com/watch?v=yS92fohmlKs) | Mariia Zolkina - Using Negotiations to Pause, Regroup, Rearm and Attack Again is a Core Moscow Tactic
 
+[Good Times Bad Times](https://www.youtube.com/watch?v=d8_o6mIndMI) | Ukraine Invades Russia Back [Mapped]
+
 #### La désinformation russe / Russian disinformation
 
 [Marcus Kolga, Christopher Ross](https://disinfowatch.org/canadian-vulnerability-to-russian-narratives-about-ukraine/) | Canadian Vulnerability to Russian Narratives about Ukraine: Disinfowatch report
@@ -124,7 +126,11 @@
 
 [European Resilience Initiative Center](https://www.youtube.com/watch?v=jSNRPFu_LuY) | The Origins of Russian Colonialism: From Pushkin to Putin by Prof. Dr. Ewa Thompson
 
+[European Resilience Initiative Center](https://www.youtube.com/watch?v=w9dkBsct4SY) | Ukraine Unchained: From Shevchenko to Zelensky - by philosopher Dr. Volodymyr Yermolenko
+
 [European Resilience Initiative Center](https://www.youtube.com/watch?v=q5MFjFR-0yU) | Modus Operandi of Russian Colonialism
+
+[Marat Maytak-Annaorazov](https://theins.ru/en/society/258528) | A nation made speechless: A chronicle of the Belarusian language destruction, from the Bolsheviks to Lukashenko
 
 [Oleksandr Polianichev](https://www.aljazeera.com/opinions/2023/5/24/how-russia-tried-to-colonise-africa-and-failed) | How Russia tried to colonise Africa and failed
 
@@ -179,6 +185,8 @@
 [Good Times Bad Times](https://www.youtube.com/watch?v=_p6wtzEKIOg) | Lessons from The Fifth Arab-Israeli War
 
 [Good Times Bad Times](https://www.youtube.com/watch?v=0GCT-CwWRUU) | Israel Has No Post-War Gaza Strategy
+
+[Good Times Bad Times](https://www.youtube.com/watch?v=YzOBOuSY7YU) | Israel-Hezbollah War Is Inevitable?
 
 [José María Ridao](https://english.elpais.com/opinion/2024-04-03/israel-and-forever-wars.html) | Israel and forever wars
 
@@ -257,6 +265,8 @@
 [Slavoj Žižek](https://www.youtube.com/watch?v=B62ue38kiF4) | The ideology of Environmental Activism
 
 [FORA.tv](https://www.youtube.com/watch?v=yzcfsq1_bt8) | Slavoj Žižek: The Delusion of Green Capitalism
+
+[The Wall Street Journal](https://www.youtube.com/watch?v=2NsBcVrPQok) | Greenwashing: When Companies Aren’t as Sustainable as They Claim
 
 ### L'obsolescence programmée / Planned obsolescence
 
@@ -358,6 +368,8 @@
 
 [Jacobin](https://www.youtube.com/watch?v=KAQiu2ETgl0) | The Misguided Fixation on Racial Disparities — Adolph Reed & Walter Benn Michaels
 
+[Yascha Mounk](https://www.theatlantic.com/ideas/archive/2018/10/new-sokal-hoax/572212/) | What an Audacious Hoax Reveals About Academia
+
 [ARTE](https://www.youtube.com/watch?v=HEsaBxwBFWo) | L'identité menace-t-elle le collectif ? | Les Idées Larges
 
 ### Le populisme et le sensationnalisme / Populism and sensationalism
@@ -370,23 +382,139 @@
 
 ### L'ethnocentrisme / Ethnocentrism
 
+[jenka](https://medium.com/@socialcreature/ai-and-the-american-smile-76d23a0fbfaf) | AI and the American Smile: How AI misrepresents culture through a facial expression
+
+[Cheddar](https://www.youtube.com/watch?v=PxtXI0K4YJs) | Why Walmart Failed In Germany - Cheddar Examines
+
 ### La santé mentale / Mental health
+
+[TheIntellectualist](https://theintellectualist.com/the-great-malaise-the-search-for-meaning-during-times-of-indifference/) | The Great Malaise: The Search For Meaning During Times of Indifference
+
+[Malcolm Harris](https://przekroj.org/en/world-people/keynes-was-wrong-gen-z-will-have-it-worse/) | Keynes was wrong. Gen Z will have it worse.
+
+[Rad](https://www.youtube.com/watch?v=I4i-8dKWMkc) | La génération anxieuse et une mascotte pleine aux as | Qu’est-ce qui se passe? S2 E1
+
+[Sisyphus 55](https://www.youtube.com/watch?v=zUuiqFGviOU) | CHRONICALLY ONLINE!
+
+[CBC News: The National](https://www.youtube.com/watch?v=jR59s2mv24Q) | What social media scrolling is doing to kids’ brains
+
+[oliSUNvia](https://www.youtube.com/watch?v=NJZ5YNrXMpE) | drowning in entertainment: the age of distraction
+
+[HealthyGamerGG](https://www.youtube.com/watch?v=q5-baYkzjyo) | Psychiatrist's Tip for Increasing Attention Span
 
 ### L'aliénation / Alienation
 
+[Alec Stubbs](https://theconversation.com/american-workers-feel-alienated-helpless-and-overwhelmed-heres-one-way-to-alleviate-their-malaise-192389) | American workers feel alienated, helpless and overwhelmed – here’s one way to alleviate their malaise
+
+[Maya Drøschler](https://medium.com/@MayaDroeschler/working-from-home-emancipation-or-alienation-of-the-white-collar-worker-816acbb45917) | Working from Home: Emancipation or Alienation of the White-Collar Worker
+
 ### Autres / Other
+
+[CaspianReport](https://www.youtube.com/watch?v=jLZhMtY208o) | Why the United Nations is obsolete
+
+[Shoaib Shafi](https://przekroj.org/en/world-people/earth-alienation/) | Earth Alienation: Hannah Arendt on Outer Space
 
 ## Le Québec
 
 ### La politique québécoise / Québec politics
 
+[Patrice Bergeron](https://www.ledevoir.com/politique/quebec/814257/pspp-demande-gouvernement-legault-agir-ingerence-etrangere) | PSPP demande au gouvernement Legault d’agir sur l’ingérence étrangère
+
 ### L'interculturalisme / Interculturalism
 
+[Veilleux](https://www.youtube.com/watch?v=8Yaas1d7BHU) | Le multiculturalisme
+
+[Veilleux](https://www.youtube.com/watch?v=eKf3m2wFvJ0) | L'interculturalisme
+
+[Veilleux](https://www.youtube.com/watch?v=O-JtlMauQRU&start=574) | La convergence culturelle
+
 ### Les référendums au Québec / Québec referendums
+
+[Larry Savage](https://www.jstor.org/stable/27754404) | Quebec Labour and the Referendums
+
+[Jacques Godbout](https://www.youtube.com/watch?v=rarPi7s3qQ4) | Le mouton noir
+
+[Denys Arcand](https://www.youtube.com/watch?v=lFxhIRXpUYw) | Le confort et l'indifférence
 
 ## Le Canada / Canada
 
 ### La politique canadienne / Canadian politics
 
+#### La politique étrangère / Foreign policy
+
+[Mia Rabson](https://www.ledevoir.com/politique/canada/816030/reputation-canada-souffert-sous-justin-trudeau-selon-marc-garneau) | La réputation du Canada a souffert sous Justin Trudeau, selon Marc Garneau
+
+[Heather Exner-Pirot, Robert W. Murray](https://macdonaldlaurier.ca/nato-needs-to-play-a-bigger-role-in-the-arctic-and-canada-needs-to-let-it-heather-exner-pirot-and-robert-murray-in-the-national-post/) | NATO needs to play a bigger role in the Arctic. And Canada needs to let it
+
+[Sandrine Vieira](https://www.ledevoir.com/politique/canada/815121/secretaire-general-otan-rencontrera-justin-trudeau-ottawa) | Le secrétaire général de l’OTAN presse le Canada d'atteindre sa cible en défense
+
+[Murray Brewster](https://www.cbc.ca/news/politics/nato-defence-spending-canada-1.7237637) | Rising economic indicators pushing Canada further from NATO spending target, MPs hear
+
+[Sandrine Vieira](https://www.ledevoir.com/politique/canada/810488/canada-atteindra-pas-2-depenses-militaires-demandes-otan) | Le Canada n’atteindra pas les 2% en dépenses militaires demandés par l’OTAN
+
+[David Baxter](https://globalnews.ca/news/10522956/david-cohen-nato-canada-us/) | Canada now ‘the outlier’ in NATO on defence spending: U.S. ambassador
+
+[Kyle Duggan](https://www.politico.com/news/2024/04/09/canada-nato-2030-penalty-00151064) | Canada stuck in NATO penalty box through 2030
+
+[Murray Brewster](https://www.cbc.ca/news/politics/nato-spending-trudeau-joly-business-council-canada-1.7231776) | Canada risks 'diplomatic isolation' if it fails to meet NATO spending target, business leaders warn
+
+[Jocelyn Coulon](https://www.lapresse.ca/debats/2021-08-29/le-canada-a-la-recherche-d-une-identite-internationale/le-declin-et-l-effacement-d-un-certain-canada.php) | Le Canada à la recherche d’une identité internationale
+
+[Louise Blais](https://policyoptions.irpp.org/fr/magazines/september-2023/canada-diplomatie-signalement-vertu/) | La diplomatie canadienne s’est égarée; elle doit se retrouver
+
+[Jocelyn Coulon](https://www.ledevoir.com/opinion/idees/799885/idees-canada-peut-il-encore-faire-place-scene-internationale) | Le Canada peut-il encore se faire une place sur la scène internationale?
+
+[David Mulroney, Obianuju Ekeocha](https://macdonaldlaurier.ca/memo-to-canada-talk-less-and-listen-more-to-the-rest-of-the-world-david-mulroney-and-obianuju-ekeocha-in-the-national-post/) | Memo to Canada – Talk less and listen more to the rest of the world
+
+[Jonathan Paquin, Louise Blais](https://www.ledevoir.com/opinion/idees/801361/idees-petite-revolution-diplomatie-canadienne) | Petite révolution en diplomatie canadienne?
+
+##### L'Arctique / The Arctic
+
+[Joanna Hosa](https://ecfr.eu/publication/feeling-the-chill-navigating-arctic-governance-amid-russias-war-on-ukraine/) | Feeling the chill: Navigating Arctic governance amid Russia’s war on Ukraine
+
+[TLDR News Global](https://www.youtube.com/watch?v=MGxXb-WQcjg) | Arctic War: The Growing Tensions over Arctic Resources
+
+[DW Planet A](https://www.youtube.com/watch?v=hvRzWzQW2go) | The race for the Arctic is ramping up. Here’s why.
+
+[The Guardian](https://www.youtube.com/watch?v=EZOWbWuMKDI) | How Russia is taking control of the Arctic | It's Complicated
+
+[DW News](https://www.youtube.com/watch?v=BxqQqfDJ1Bc) | Geopolitical tensions between NATO and Russia increase in the Arctic
+
+[Sandrine Vieira](https://www.ledevoir.com/monde/808706/experts-sonnent-alarme-devant-menace-russe-arctique-canadien) | Les experts sonnent l’alarme devant la menace russe dans l’Arctique canadien
+
+[CBC News](https://www.youtube.com/watch?v=5ze9MNhY9_M) | Russian invasion heightens concerns around Arctic sovereignty
+
+[CBC News: The National](https://www.youtube.com/watch?v=I0UKd4aWbqI) | Calls for Canada to protect Arctic sovereignty
+
+[Alexander Dalziel](https://policyoptions.irpp.org/magazines/april-2024/greenland-canada-growing-ties/) | Making Greenland a full part of North America should be a priority for Canada
+
+#### L'ingérence étrangère / Foreign interference
+
+[Marc Tremblay](https://www.ledevoir.com/opinion/idees/814559/idees-ingerence-etrangere-est-adn-canada?fbclid=IwZXh0bgNhZW0CMTAAAR3d-5F_ixzmBwVvnblWWTh63ueIixhQqcF8JgzhSA2_6xCHz2dpKkz2Zh4_aem_qXu_1FRG-7fM4E5cKvaOug) | L’ingérence étrangère est dans l’ADN du Canada
+
+[Jesse Snyder](https://nationalpost.com/news/politics/its-embarrassing-chinas-tightening-grip-on-the-intellectual-property-landscape-in-canada) | 'It's embarrassing': China’s tightening grip on the intellectual property landscape in Canada
+
+[Konrad Yakabuski](https://www.ledevoir.com/opinion/chroniques/814505/chronique-ingerence-etrangere-indifference-liberale) | L’ingérence étrangère et l’indifférence libérale
+
+[Andrew Kirsch](https://thehub.ca/2024/05/09/andrew-kirsch-it-would-be-nice-if-the-pm-took-csis-advice-seriously/) | I am a former CSIS intelligence officer. It would be nice if the PM took our security advice seriously
+
+#### L'Armée canadienne / The Canadian Army
+
+[Richard Shimooka](https://macdonaldlaurier.ca/canadas-military-is-in-crisis-heres-whats-definitely-not-helping-richard-shimooka-in-the-hub/) | Canada’s military is in crisis. Here’s what’s definitely not helping
+
+[Adam Zivo](https://nationalpost.com/opinion/adam-zivo-how-canada-sabotaged-its-own-fleet-of-tanks) | How Canada sabotaged its own fleet of tanks
+
+[CBC News: The National](https://www.youtube.com/watch?v=_fiRhsKOFqY) | The world is at a ‘turning point’ — is Canada’s military ready?
+
+[Richard Shimooka](https://macdonaldlaurier.ca/canadas-military-left-behind/) | Canada’s military is being left behind
+
 ### Le multiculturalisme / Multiculturalism
+
+[Wikipedia](https://en.wikipedia.org/wiki/Postnationalism) | Postnationalism
+
+[Brian Giesbrecht](https://fcpp.org/2023/03/10/most-canadians-dont-think-canada-is-a-post-national-state/) | Most Canadians Don’t Think Canada Is a ‘Post-National State’
+
+[Donna Kennedy-Glans, Don Hill](https://www.cbc.ca/news/canada/calgary/donna-kennedy-glans-don-hill-trudeau-confederation-risk-1.4937499) | Trudeau's neglect of the nation has led us to this place
+
+[J.L. Granatstein](https://macdonaldlaurier.ca/canada-is-failing-to-teach-its-military-history-j-l-granatstein-in-the-hub/) | Canada is failing to teach its military history
 
