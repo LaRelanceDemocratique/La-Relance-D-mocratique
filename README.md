@@ -14,6 +14,7 @@
 
 ## La géopolitique / Geopolitics
 <a name="la-géopolitique-/-geopolitics" />
+
 ### Le néo-idéalisme / Neo-idealism
 <a name="le-néo-idéalisme-/-neo-idealism" />
 
