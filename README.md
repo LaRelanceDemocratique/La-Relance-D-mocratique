@@ -338,7 +338,27 @@
 
 [Vlad Vexler](https://www.youtube.com/watch?v=5laM89Qxykc&start=151) | We Are Losing Trust in Political Institutions
 
+[Alain Gaudreault](https://www.ledevoir.com/opinion/idees/752400/politique-le-ton-monte-parce-que-la-confiance-baisse) | Le ton monte parce que la confiance baisse
+
+[Cary Wu, Alex Bierman, Scott Schieman](https://theconversation.com/canadas-trust-divide-is-growing-and-that-could-spell-bad-news-for-the-future-185196) | Canada’s trust divide is growing, and that could spell bad news for the future
+
+[Donald Savoie](https://www.theglobeandmail.com/opinion/article-canada-trust-democracy-government/) | Under pressure: Canadians are losing trust in their governments, adding stress to our public institutions
+
+[Hanna Hett](https://www.nationalobserver.com/2023/01/18/news/trust-decline-news-organizations-help) | Trust is in decline. What can news organizations do to help?
+
+[The Daily](https://www150.statcan.gc.ca/n1/daily-quotidien/240213/dq240213a-eng.htm) | Confidence in institutions and the media, 2023
+
 ### La politique identitaire vs. l'universalisme / Identity politics vs. universalism
+
+[Big Think](https://www.youtube.com/watch?v=l-_yIhW9Ias) | There are two kinds of identity politics. One is good. The other, very bad. | Jonathan Haidt
+
+[The Edition](https://www.spectator.co.uk/podcast/identity-crisis/) | Yascha Mounk: Identity crisis
+
+[France Inter](https://www.youtube.com/watch?v=Uy9tQ-18GBc) | Yascha Mounk : "La définition de cette idéologie, c'est de rejeter la règle de l'universalisme"
+
+[Jacobin](https://www.youtube.com/watch?v=KAQiu2ETgl0) | The Misguided Fixation on Racial Disparities — Adolph Reed & Walter Benn Michaels
+
+[ARTE](https://www.youtube.com/watch?v=HEsaBxwBFWo) | L'identité menace-t-elle le collectif ? | Les Idées Larges
 
 ### Le populisme et le sensationnalisme / Populism and sensationalism
 
