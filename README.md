@@ -468,7 +468,7 @@
 
 [Jonathan Paquin, Louise Blais](https://www.ledevoir.com/opinion/idees/801361/idees-petite-revolution-diplomatie-canadienne) | Petite révolution en diplomatie canadienne?
 
-##### L'Arctique / The Arctic
+#### L'Arctique / The Arctic
 
 [Joanna Hosa](https://ecfr.eu/publication/feeling-the-chill-navigating-arctic-governance-amid-russias-war-on-ukraine/) | Feeling the chill: Navigating Arctic governance amid Russia’s war on Ukraine
 
