@@ -4,7 +4,7 @@
 
 ## Table de matières / Table of contents 
 
-1. [defines](#la-géopolitique-/-geopolitics)
+1. [La géopolitique / Geopolitics](#la-géopolitique-/-geopolitics)
 
 ## La géopolitique / Geopolitics
 
