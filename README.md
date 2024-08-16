@@ -88,11 +88,15 @@
   
     - [Autres enjeux / Other issues](#Autres-enjeux-/-Other-issues)
 
-6. [Le Québec](#Le-Québec)
+6. [Le Québec](#Le-Québec-/-Québec)
 
    - [La politique québécoise / Québec politics](#La-politique-québécoise-/-Québec-politics)
      
    - [L'interculturalisme / Interculturalism](#L'interculturalisme-/-Interculturalism)
+     
+   - [Les référendums au Québec / Québec referendums](#Les-référendums-au-Québec-/-Québec-referendums)
+     
+7. [Le Canada / Canada]
 
 <a name="la-géopolitique-/-geopolitics" />
 
@@ -588,9 +592,9 @@
 
 [Shoaib Shafi](https://przekroj.org/en/world-people/earth-alienation/) | Earth Alienation: Hannah Arendt on Outer Space
 
-<a name="Le-Québec" />
+<a name="Le-Québec-/-Québec" />
 
-## Le Québec
+## Le Québec / Québec
 
 <a name="La-politique-québécoise-/-Québec-politics" />
 
@@ -607,6 +611,8 @@
 [Veilleux](https://www.youtube.com/watch?v=eKf3m2wFvJ0) | L'interculturalisme
 
 [Veilleux](https://www.youtube.com/watch?v=O-JtlMauQRU&start=574) | La convergence culturelle
+
+<a name="Les-référendums-au-Québec-/-Québec-referendums" />
 
 ### Les référendums au Québec / Québec referendums
 
