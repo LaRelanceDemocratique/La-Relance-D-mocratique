@@ -90,7 +90,9 @@
 
 6. [Le Québec](#Le-Québec)
 
-   - [La politique québécoise / Québec politics](#La-politique-québécoise-/-Québec-politics) 
+   - [La politique québécoise / Québec politics](#La-politique-québécoise-/-Québec-politics)
+     
+   - [L'interculturalisme / Interculturalism](#L'interculturalisme-/-Interculturalism)
 
 <a name="la-géopolitique-/-geopolitics" />
 
@@ -595,6 +597,8 @@
 ### La politique québécoise / Québec politics
 
 [Patrice Bergeron](https://www.ledevoir.com/politique/quebec/814257/pspp-demande-gouvernement-legault-agir-ingerence-etrangere) | PSPP demande au gouvernement Legault d’agir sur l’ingérence étrangère
+
+<a name="L'interculturalisme-/-Interculturalis" />
 
 ### L'interculturalisme / Interculturalism
 
