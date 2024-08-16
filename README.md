@@ -26,9 +26,10 @@
     - [La guerre israélo-arabe / The Arab-Israeli war](#La-guerre-israélo-arabe-/-The-Arab-Israeli-war)
   - [Autres tensions géopolitiques / Other geopolitical tensions](#Autres-tensions-géopolitiques-/-Other-geopolitical-tensions)
 2. [Le néolibéralisme / Neoliberalism](#Le-néolibéralisme-/-Neoliberalism)
-- [Comprendre le néolibéralisme / Understanding neoliberalism](#Comprendre-le-néolibéralisme-/-Understanding-neoliberalism)
-- [Le néolibéralisme au Québec / Neoliberalism in Quebec](#Le-néolibéralisme-au-Québec-/-Neoliberalism-in-Quebec)
+  - [Comprendre le néolibéralisme / Understanding neoliberalism](#Comprendre-le-néolibéralisme-/-Understanding-neoliberalism)
+  - [Le néolibéralisme au Québec / Neoliberalism in Quebec](#Le-néolibéralisme-au-Québec-/-Neoliberalism-in-Quebec)
 3. [Le changement climatique / Climate change](#Le-changement-climatique-/-Climate-change)
+  - [Général / General](#Général-/-General)
 
 <a name="la-géopolitique-/-geopolitics" />
 
@@ -327,6 +328,8 @@
 <a name="Le-changement-climatique-/-Climate-change" />
 
 ## Le changement climatique / Climate change
+
+<a name="Général-/-General" />
 
 ### Général / General
 
