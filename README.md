@@ -24,7 +24,7 @@
     - [Les origines du conflit / The origins of the conflict](#Les-origines-du-conflit-/-The-origins-of-the-conflict)
     - [La confusion morale / Moral confusion](#La-confusion-morale-/-Moral-confusion)
     - [La guerre israélo-arabe / The Arab-Israeli war](#La-guerre-israélo-arabe-/-The-Arab-Israeli-war)
-  - [Autres / Other](#Autres-/-Other)
+  - [Autres tensions géopolitiques / Other geopolitical tensions](#Autres-tensions-géopolitiques-/-Other-geopolitical-tensions)
 
 <a name="la-géopolitique-/-geopolitics" />
 
@@ -204,7 +204,7 @@
 
 [VICE News](https://www.youtube.com/watch?v=RrplLEQQMnE) | Uyghurs Who Fled China Now Face Repression in Pakistan
 
-<b name="Autres-/-Other" />
+<a name="Autres-/-Other" />
 
 #### Autres / Other
 
@@ -268,9 +268,9 @@
 
 [Abe Silberstein, Yael Mizrahi-Arnaud](https://warontherocks.com/2023/12/after-israel-defeats-hamas-the-united-states-should-recognize-palestine/) | After Israel Defeats Hamas, the United States Should Recognize Palestine
 
-<a name="Autres-/-Other" />
+<a name="#Autres-tensions-géopolitiques-/-Other-geopolitical-tensions" />
 
-### Autres / Other
+### Autres tensions géopolitiques / Other geopolitical tensions
 
 [Versed](https://www.youtube.com/watch?v=t-rRPtDWR4w) | How The US Just Expanded By 400,000 Miles
 
