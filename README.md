@@ -43,6 +43,7 @@
     - [La politique identitaire vs. l'universalisme / Identity politics vs. universalism](#La-politique-identitaire-vs.-l'universalisme-/-Identity-politics-vs.-universalism)
     - [Le populisme et le sensationnalisme / Populism and sensationalism](#Le-populisme-et-le-sensationnalisme-/-Populism-and-sensationalism)
     - [L'ethnocentrisme / Ethnocentrism](#L'ethnocentrisme-/-Ethnocentrism)
+    - [La santé mentale / Mental health](#La-santé-mentale-/-Mental-health)
 
 <a name="la-géopolitique-/-geopolitics" />
 
@@ -503,6 +504,8 @@
 [jenka](https://medium.com/@socialcreature/ai-and-the-american-smile-76d23a0fbfaf) | AI and the American Smile: How AI misrepresents culture through a facial expression
 
 [Cheddar](https://www.youtube.com/watch?v=PxtXI0K4YJs) | Why Walmart Failed In Germany - Cheddar Examines
+
+<a name="La-santé-mentale-/-Mental-health" />
 
 ### La santé mentale / Mental health
 
