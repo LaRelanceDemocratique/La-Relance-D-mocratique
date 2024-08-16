@@ -9,6 +9,7 @@
 - [La menace russe / The Russian threat](#la-menace-russe-/-the-russian-threat)
   - [La désinformation russe / Russian disinformation](#la-désinformation-russe-/-russian-disinformation)
   - [Les crimes de guerre commis par la Russie / Russian war crimes](#les-crimes-de-guerre-commis-par-la-Russie-/-Russian-war-crimes)
+  - [Comprendre la Russie / Understanding Russia](#Comprendre-la-Russie-/-Understanding-Russia)
 
 <a name="la-géopolitique-/-geopolitics" />
 
@@ -83,6 +84,8 @@
 [Katya Bonch-Osmolovskaya](https://istories.media/en/stories/2023/05/31/to-kidnap-and-russify/) | To Kidnap and Russify
 
 [Associated Press](https://www.theguardian.com/world/2023/jul/20/belarus-red-cross-says-it-is-involved-in-transfer-of-children-out-of-ukraine) | Belarus Red Cross says it is involved in transfer of children out of Ukraine
+
+<a name="Comprendre-la-Russie-/-Understanding-Russia" />
 
 #### Comprendre la Russie / Understanding Russia
 
