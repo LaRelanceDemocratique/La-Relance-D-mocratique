@@ -82,6 +82,8 @@
     - [L'ethnocentrisme / Ethnocentrism](#L'ethnocentrisme-/-Ethnocentrism)
     
     - [La santé mentale / Mental health](#La-santé-mentale-/-Mental-health)
+  
+    - [L'aliénation / Alienation](#L'aliénation-/-Alienation)
 
 <a name="la-géopolitique-/-geopolitics" />
 
@@ -560,6 +562,8 @@
 [oliSUNvia](https://www.youtube.com/watch?v=NJZ5YNrXMpE) | drowning in entertainment: the age of distraction
 
 [HealthyGamerGG](https://www.youtube.com/watch?v=q5-baYkzjyo) | Psychiatrist's Tip for Increasing Attention Span
+
+<a name="L'aliénation-/-Alienation" />
 
 ### L'aliénation / Alienation
 
