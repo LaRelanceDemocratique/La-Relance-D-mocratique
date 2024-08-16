@@ -46,13 +46,13 @@
     
     - [Autres tensions géopolitiques / Other geopolitical tensions](#Autres-tensions-géopolitiques-/-Other-geopolitical-tensions)
       
-3. [Le néolibéralisme / Neoliberalism](#Le-néolibéralisme-/-Neoliberalism)
+2. [Le néolibéralisme / Neoliberalism](#Le-néolibéralisme-/-Neoliberalism)
 
     - [Comprendre le néolibéralisme / Understanding neoliberalism](#Comprendre-le-néolibéralisme-/-Understanding-neoliberalism)
     
     - [Le néolibéralisme au Québec / Neoliberalism in Quebec](#Le-néolibéralisme-au-Québec-/-Neoliberalism-in-Quebec)
       
-5. [Le changement climatique / Climate change](#Le-changement-climatique-/-Climate-change)
+3. [Le changement climatique / Climate change](#Le-changement-climatique-/-Climate-change)
     
     - [Général / General](#Général-/-General)
     
@@ -60,9 +60,9 @@
     
     - [Les alternatives au capitalisme / Alternatives to capitalism](#Les-alternatives-au-capitalisme-/-Alternatives-to-capitalism)
       
-6. [L'amènagement urbain / Urban planning](#L'amènagement-urbain-/-Urban-planning)
+4. [L'amènagement urbain / Urban planning](#L'amènagement-urbain-/-Urban-planning)
 
-7. [Les enjeux contemporains / Contemporary issues](#Les-enjeux-contemporains-/-Contemporary-issues)
+5. [Les enjeux contemporains / Contemporary issues](#Les-enjeux-contemporains-/-Contemporary-issues)
     
     - [La désinformation / Disinformation](#La-désinformation-/-Disinformation)
     
@@ -88,7 +88,7 @@
   
     - [Autres enjeux / Other issues](#Autres-enjeux-/-Other-issues)
 
-8. [Le Québec](#Le-Québec)
+6. [Le Québec](#Le-Québec)
 
 <a name="la-géopolitique-/-geopolitics" />
 
