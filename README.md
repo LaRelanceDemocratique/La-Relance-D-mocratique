@@ -1,4 +1,4 @@
-# La Relance Démocratique
+# La Relance Démocratique (LRD)
 
 ## Description
 
