@@ -88,7 +88,7 @@
   
     - [Autres enjeux / Other issues](#Autres-enjeux-/-Other-issues)
 
-6. [Le Québec](#Le-Québec-/-Québec)
+6. [Le Québec / Québec](#Le-Québec-/-Québec)
 
    - [La politique québécoise / Québec politics](#La-politique-québécoise-/-Québec-politics)
      
