@@ -13,40 +13,74 @@
       - [La désinformation russe / Russian disinformation](#la-désinformation-russe-/-russian-disinformation)
 
       - [Les crimes de guerre commis par la Russie / Russian war crimes](#les-crimes-de-guerre-commis-par-la-Russie-/-Russian-war-crimes)
+
       - [Comprendre la Russie / Understanding Russia](#Comprendre-la-Russie-/-Understanding-Russia)
+
       - [La présence russe en Afrique / Russian presence in Africa](#La-présence-russe-en-Afrique-/-Russian-presence-in-Africa)
+    
     - [Westplaining](#Westplaining)
+    
     - [L'ingérence étrangère et le Canada / Foreign interference and Canada](#L'ingérence-étrangère-et-le-Canada-/-Foreign-interference-and-Canada)
+
       - [L'ingérence chinoise / Chinese interference](#L'ingérence-chinoise-/-Chinese-interference)
+
       - [L'ingérence indienne / Indian interference](#L'ingérence-indienne-/-Indian-interference)
+    
     - [Les impérialismes / Imperialism](#Les-impérialismes-/-Imperialism)
+
       - [L'impérialisme russe / Russian imperialism](#L'impérialisme-russe-/-Russian-imperialism)
+
       - [L'impérialisme chinois / Chinese imperialism](#L'impérialisme-chinois-/-Chinese-imperialism)
+
       - [Autres / Other](#Autres-/-Other)
+    
     - [La migration humaine / Human migration](#La-migration-humaine-/-Human-migration)
+    
     - [Le conflit israélo-palestinien / The Israeli-Palestinian conflict](#Le-conflit-israélo-palestinien-/-The-Israeli-Palestinian-conflict)
+
       - [Les origines du conflit / The origins of the conflict](#Les-origines-du-conflit-/-The-origins-of-the-conflict)
+
       - [La confusion morale / Moral confusion](#La-confusion-morale-/-Moral-confusion)
+
       - [La guerre israélo-arabe / The Arab-Israeli war](#La-guerre-israélo-arabe-/-The-Arab-Israeli-war)
+    
     - [Autres tensions géopolitiques / Other geopolitical tensions](#Autres-tensions-géopolitiques-/-Other-geopolitical-tensions)
+      
 3. [Le néolibéralisme / Neoliberalism](#Le-néolibéralisme-/-Neoliberalism)
+
     - [Comprendre le néolibéralisme / Understanding neoliberalism](#Comprendre-le-néolibéralisme-/-Understanding-neoliberalism)
+    
     - [Le néolibéralisme au Québec / Neoliberalism in Quebec](#Le-néolibéralisme-au-Québec-/-Neoliberalism-in-Quebec)
-4. [Le changement climatique / Climate change](#Le-changement-climatique-/-Climate-change)
+      
+5. [Le changement climatique / Climate change](#Le-changement-climatique-/-Climate-change)
+    
     - [Général / General](#Général-/-General)
+    
     - [L'obsolescence programmée / Planned obsolescence](#L'obsolescence-programmée-/-Planned-obsolescence)
+    
     - [Les alternatives au capitalisme / Alternatives to capitalism](#Les-alternatives-au-capitalisme-/-Alternatives-to-capitalism)
-5. [L'amènagement urbain / Urban planning](#L'amènagement-urbain-/-Urban-planning)
-6. [Les enjeux contemporains / Contemporary issues](#Les-enjeux-contemporains-/-Contemporary-issues)
+6. [L'amènagement urbain / Urban planning](#L'amènagement-urbain-/-Urban-planning)
+
+7. [Les enjeux contemporains / Contemporary issues](#Les-enjeux-contemporains-/-Contemporary-issues)
+    
     - [La désinformation / Disinformation](#La-désinformation-/-Disinformation)
+    
     - [La surveillance et la vie privée / Surveillance and privacy](#La-surveillance-et-la-vie-privée-/-Surveillance-and-privacy)
+    
     - [L'internet et les GAFAM / Internet and GAFAM](#L'internet-et-les-GAFAM-/-Internet-and-GAFAM)
+    
     - [L'intelligence artificielle / Artificial intelligence](#L'intelligence-artificielle-/-Artificial-intelligence)
+    
     - [L'économie de la surveillance / Surveillance capitalism](#L'économie-de-la-surveillance-/-Surveillance-capitalism)
+    
     - [La confiance dans les institutions publiques / Trust in public institutions](#La-confiance-dans-les-institutions-publiques-/-Trust-in-public-institutions)
+    
     - [La politique identitaire vs. l'universalisme / Identity politics vs. universalism](#La-politique-identitaire-vs.-l'universalisme-/-Identity-politics-vs.-universalism)
+    
     - [Le populisme et le sensationnalisme / Populism and sensationalism](#Le-populisme-et-le-sensationnalisme-/-Populism-and-sensationalism)
+    
     - [L'ethnocentrisme / Ethnocentrism](#L'ethnocentrisme-/-Ethnocentrism)
+    
     - [La santé mentale / Mental health](#La-santé-mentale-/-Mental-health)
 
 <a name="la-géopolitique-/-geopolitics" />
