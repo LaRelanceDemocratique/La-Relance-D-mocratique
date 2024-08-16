@@ -41,6 +41,7 @@
     - [L'économie de la surveillance / Surveillance capitalism](#L'économie-de-la-surveillance-/-Surveillance-capitalism)
     - [La confiance dans les institutions publiques / Trust in public institutions](#La-confiance-dans-les-institutions-publiques-/-Trust-in-public-institutions)
     - [La politique identitaire vs. l'universalisme / Identity politics vs. universalism](#La-politique-identitaire-vs.-l'universalisme-/-Identity-politics-vs.-universalism)
+    - [Le populisme et le sensationnalisme / Populism and sensationalism](#Le-populisme-et-le-sensationnalisme-/-Populism-and-sensationalism)
 
 <a name="la-géopolitique-/-geopolitics" />
 
@@ -483,6 +484,8 @@
 [Yascha Mounk](https://www.theatlantic.com/ideas/archive/2018/10/new-sokal-hoax/572212/) | What an Audacious Hoax Reveals About Academia
 
 [ARTE](https://www.youtube.com/watch?v=HEsaBxwBFWo) | L'identité menace-t-elle le collectif ? | Les Idées Larges
+
+<a name="Le-populisme-et-le-sensationnalisme-/-Populism-and-sensationalism" />
 
 ### Le populisme et le sensationnalisme / Populism and sensationalism
 
