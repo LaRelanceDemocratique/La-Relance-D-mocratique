@@ -24,6 +24,7 @@
     - [Les origines du conflit / The origins of the conflict](#Les-origines-du-conflit-/-The-origins-of-the-conflict)
     - [La confusion morale / Moral confusion](#La-confusion-morale-/-Moral-confusion)
     - [La guerre israélo-arabe / The Arab-Israeli war](#La-guerre-israélo-arabe-/-The-Arab-Israeli-war)
+  - [Autres / Other](#Autres-/-Other)
 
 <a name="la-géopolitique-/-geopolitics" />
 
@@ -266,6 +267,8 @@
 [Francis J. Gavin](https://warontherocks.com/2024/05/what-exactly-are-we-doing/) | What Exactly Are We Doing?
 
 [Abe Silberstein, Yael Mizrahi-Arnaud](https://warontherocks.com/2023/12/after-israel-defeats-hamas-the-united-states-should-recognize-palestine/) | After Israel Defeats Hamas, the United States Should Recognize Palestine
+
+<a name="Autres-/-Other" />
 
 ### Autres / Other
 
