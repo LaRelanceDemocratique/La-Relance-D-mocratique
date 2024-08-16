@@ -33,6 +33,7 @@
   - [L'obsolescence programmée / Planned obsolescence](#L'obsolescence-programmée-/-Planned-obsolescence)
   - [Les alternatives au capitalisme / Alternatives to capitalism](#Les-alternatives-au-capitalisme-/-Alternatives-to-capitalism)
 4. [L'amènagement urbain / Urban planning](#L'amènagement-urbain-/-Urban-planning)
+5. [Les enjeux contemporains / Contemporary issues](#Les-enjeux-contemporains-/-Contemporary-issues)
 
 <a name="la-géopolitique-/-geopolitics" />
 
@@ -387,6 +388,8 @@
 [Maude Brunet](https://theconversation.com/megaprojets-la-centralisation-est-elle-une-garantie-defficacite-224801) | Mégaprojets : la centralisation est-elle une garantie d’efficacité?
 
 [About Here](https://www.youtube.com/watch?v=sKudSeqHSJk) | The Non-capitalist Solution to the Housing Crisis
+
+<a name="Les-enjeux-contemporains-/-Contemporary-issues" />
 
 ## Les enjeux contemporains / Contemporary issues
 
