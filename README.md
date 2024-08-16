@@ -38,6 +38,7 @@
     - [La surveillance et la vie privée / Surveillance and privacy](#La-surveillance-et-la-vie-privée-/-Surveillance-and-privacy)
     - [L'internet et les GAFAM / Internet and GAFAM](#L'internet-et-les-GAFAM-/-Internet-and-GAFAM)
     - [L'intelligence artificielle / Artificial intelligence](#L'intelligence-artificielle-/-Artificial-intelligence)
+    - [L'économie de la surveillance / Surveillance capitalism](#L'économie-de-la-surveillance-/-Surveillance-capitalism)
 
 <a name="la-géopolitique-/-geopolitics" />
 
@@ -440,6 +441,8 @@
 [Good Times Bad Times](https://www.youtube.com/watch?v=QhnQsOHjdPE) | AI Origins. Will It Kill Us Or Save Us?
 
 [DW News](https://www.youtube.com/watch?v=DjZptKfGTZ0) | EU lawmakers approve world's first legal framework on Artificial Intelligence
+
+<a name="L'économie-de-la-surveillance-/-Surveillance-capitalism" />
 
 ### L'économie de la surveillance / Surveillance capitalism
 
