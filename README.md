@@ -40,6 +40,7 @@
     - [L'intelligence artificielle / Artificial intelligence](#L'intelligence-artificielle-/-Artificial-intelligence)
     - [L'économie de la surveillance / Surveillance capitalism](#L'économie-de-la-surveillance-/-Surveillance-capitalism)
     - [La confiance dans les institutions publiques / Trust in public institutions](#La-confiance-dans-les-institutions-publiques-/-Trust-in-public-institutions)
+    - [La politique identitaire vs. l'universalisme / Identity politics vs. universalism](#La-politique-identitaire-vs.-l'universalisme-/-Identity-politics-vs.-universalism)
 
 <a name="la-géopolitique-/-geopolitics" />
 
@@ -466,6 +467,8 @@
 [Hanna Hett](https://www.nationalobserver.com/2023/01/18/news/trust-decline-news-organizations-help) | Trust is in decline. What can news organizations do to help?
 
 [The Daily](https://www150.statcan.gc.ca/n1/daily-quotidien/240213/dq240213a-eng.htm) | Confidence in institutions and the media, 2023
+
+<a name="La-politique-identitaire-vs.-l'universalisme-/-Identity-politics-vs.-universalism" />
 
 ### La politique identitaire vs. l'universalisme / Identity politics vs. universalism
 
