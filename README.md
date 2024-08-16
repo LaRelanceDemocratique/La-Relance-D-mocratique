@@ -20,6 +20,7 @@
     - [L'impérialisme chinois / Chinese imperialism](#L'impérialisme-chinois-/-Chinese-imperialism)
     - [Autres / Other](#Autres-/-Other)
   - [La migration humaine / Human migration](#La-migration-humaine-/-Human-migration)
+  - [Le conflit israélo-palestinien / The Israeli-Palestinian conflict](#Le-conflit-israélo-palestinien-/-The-Israeli-Palestinian-conflict)
 
 <a name="la-géopolitique-/-geopolitics" />
 
@@ -210,6 +211,8 @@
 ### La migration humaine / Human migration
 
 [Big Think](https://www.youtube.com/watch?v=s5PigZzSAJo&t=706s) | Slavoj Žižek on Refugees, Conservatism, and Cultural Incompatibility
+
+<a name="Le-conflit-israélo-palestinien-/-The-Israeli-Palestinian-conflict" />
 
 ### Le conflit israélo-palestinien / The Israeli-Palestinian conflict
 
