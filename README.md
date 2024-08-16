@@ -31,6 +31,7 @@
 3. [Le changement climatique / Climate change](#Le-changement-climatique-/-Climate-change)
   - [Général / General](#Général-/-General)
   - [L'obsolescence programmée / Planned obsolescence](#L'obsolescence-programmée-/-Planned-obsolescence)
+  - [Les alternatives au capitalisme / Alternatives to capitalism](#Les-alternatives-au-capitalisme-/-Alternatives-to-capitalism)
 
 <a name="la-géopolitique-/-geopolitics" />
 
@@ -356,7 +357,9 @@
 
 [La Presse canadienne](https://www.ledevoir.com/politique/quebec/799273/projet-loi-contre-obsolescence-programmee-est-adopte-unanimite) | Le projet de loi contre l’obsolescence programmée est adopté à l’unanimité
 
-### Les alternatives au capitalism / Alternatives to capitalism
+<a name="Les-alternatives-au-capitalism-/-Alternatives-to-capitalism" />
+
+### Les alternatives au capitalisme / Alternatives to capitalism
 
 [Paulina Wilk](https://przekroj.org/en/world-people/better-not-to-cross-the-dreamer/) | The World’s Bravest Economist: The Revolutionary Economist
 
