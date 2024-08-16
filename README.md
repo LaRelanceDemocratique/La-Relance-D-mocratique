@@ -5,9 +5,13 @@
 ## Table de matières / Table of contents 
 
 1. [La géopolitique / Geopolitics](#la-géopolitique-/-geopolitics)
-2.     - [Le néo-idéalisme / Neo-idealism](#le-néo-idéalisme-/-neo-idealism)
+   
+    - [Le néo-idéalisme / Neo-idealism](#le-néo-idéalisme-/-neo-idealism)
+
     - [La menace russe / The Russian threat](#la-menace-russe-/-the-russian-threat)
+   
       - [La désinformation russe / Russian disinformation](#la-désinformation-russe-/-russian-disinformation)
+
       - [Les crimes de guerre commis par la Russie / Russian war crimes](#les-crimes-de-guerre-commis-par-la-Russie-/-Russian-war-crimes)
       - [Comprendre la Russie / Understanding Russia](#Comprendre-la-Russie-/-Understanding-Russia)
       - [La présence russe en Afrique / Russian presence in Africa](#La-présence-russe-en-Afrique-/-Russian-presence-in-Africa)
