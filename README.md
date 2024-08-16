@@ -12,6 +12,7 @@
   - [Comprendre la Russie / Understanding Russia](#Comprendre-la-Russie-/-Understanding-Russia)
   - [La présence russe en Afrique / Russian presence in Africa](#La-présence-russe-en-Afrique-/-Russian-presence-in-Africa)
 - [Westplaining](#Westplaining)
+- [L'ingérence étrangère et le Canada / Foreign interference and Canada](#L'ingérence-étrangère-et-le-Canada-/-Foreign-interference-and-Canada)
 
 <a name="la-géopolitique-/-geopolitics" />
 
@@ -118,6 +119,8 @@
 [Viktoriia Lapa](https://theconversation.com/the-eu-should-stop-westsplaining-and-listen-to-its-smaller-eastern-members-they-saw-the-ukraine-war-coming-226165) | The EU should stop ‘westsplaining’ and listen to its smaller eastern members – they saw the Ukraine war coming
 
 [Edward Lucas](https://cepa.org/article/its-time-to-stop-westsplaining/) | It’s Time to Stop “Westsplaining”
+
+<a name="L'ingérence-étrangère-et-le-Canada-/-Foreign-interference-and-Canada" />
 
 ### L'ingérence étrangère et le Canada / Foreign interference and Canada
 
