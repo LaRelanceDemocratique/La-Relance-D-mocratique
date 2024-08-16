@@ -10,6 +10,7 @@
   - [La désinformation russe / Russian disinformation](#la-désinformation-russe-/-russian-disinformation)
   - [Les crimes de guerre commis par la Russie / Russian war crimes](#les-crimes-de-guerre-commis-par-la-Russie-/-Russian-war-crimes)
   - [Comprendre la Russie / Understanding Russia](#Comprendre-la-Russie-/-Understanding-Russia)
+  - [La présence russe en Afrique / Russian presence in Africa](#La-présence-russe-en-Afrique-/-Russian-presence-in-Africa)
 
 <a name="la-géopolitique-/-geopolitics" />
 
@@ -94,6 +95,8 @@
 [Vlad Vexler](https://www.youtube.com/watch?v=K4O3D7CfThA) | The Riddle of Why Russians Don't Protest
 
 [Vlad Vexler](https://www.youtube.com/watch?v=d1pOahq4TCk) | Why All Russians Are Responsible for Putin's War
+
+<a name="La-présence-russe-en-Afrique-/-Russian-presence-in-Africa" />
 
 #### La présence russe en Afrique / Russian presence in Africa
 
