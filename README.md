@@ -16,7 +16,7 @@
   - [L'ingérence chinoise / Chinese interference](#L'ingérence-chinoise-/-Chinese-interference)
   - [L'ingérence indienne / Indian interference](#L'ingérence-indienne-/-Indian-interference)
 - [Les impérialismes / Imperialism](#Les-impérialismes-/-Imperialism)
-  - [L'impérialisme russe / Russian imperialism](L'impérialisme-russe-/-Russian-imperialism) 
+  - [L'impérialisme russe / Russian imperialism](#L'impérialisme-russe-/-Russian-imperialism) 
 
 <a name="la-géopolitique-/-geopolitics" />
 
