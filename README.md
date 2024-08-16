@@ -11,7 +11,7 @@
     - [Les crimes de guerre commis par la Russie / Russian war crimes](#les-crimes-de-guerre-commis-par-la-Russie-/-Russian-war-crimes)
     - [Comprendre la Russie / Understanding Russia](#Comprendre-la-Russie-/-Understanding-Russia)
     - [La présence russe en Afrique / Russian presence in Africa](#La-présence-russe-en-Afrique-/-Russian-presence-in-Africa)
-  - [Westplaining](#Westplaining)
+- [Westplaining](#Westplaining)
   - [L'ingérence étrangère et le Canada / Foreign interference and Canada](#L'ingérence-étrangère-et-le-Canada-/-Foreign-interference-and-Canada)
     - [L'ingérence chinoise / Chinese interference](#L'ingérence-chinoise-/-Chinese-interference)
     - [L'ingérence indienne / Indian interference](#L'ingérence-indienne-/-Indian-interference)
