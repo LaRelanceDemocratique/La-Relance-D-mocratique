@@ -5,9 +5,10 @@
 ## Table de matières / Table of contents 
 
 1. [La géopolitique / Geopolitics](#la-géopolitique-/-geopolitics)
--[Le néo-idéalisme / Neo-idealism](#le-néo-idéalisme-/-neo-idealism)
+- [Le néo-idéalisme / Neo-idealism](#le-néo-idéalisme-/-neo-idealism)
 - [La menace russe / The Russian threat](#la-menace-russe-/-the-russian-threat)
-  - [] 
+  - [La désinformation russe / Russian disinformation](#la-désinformation-russe-/-russian-disinformation) 
+
 <a name="la-géopolitique-/-geopolitics" />
 
 ## La géopolitique / Geopolitics
@@ -53,6 +54,8 @@
 [Silicon Curtain](https://www.youtube.com/watch?v=yS92fohmlKs) | Mariia Zolkina - Using Negotiations to Pause, Regroup, Rearm and Attack Again is a Core Moscow Tactic
 
 [Good Times Bad Times](https://www.youtube.com/watch?v=d8_o6mIndMI) | Ukraine Invades Russia Back [Mapped]
+
+<a name="la-désinformation-russe-/-Russian-disinformation" />
 
 #### La désinformation russe / Russian disinformation
 
