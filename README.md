@@ -30,6 +30,7 @@
   - [Le néolibéralisme au Québec / Neoliberalism in Quebec](#Le-néolibéralisme-au-Québec-/-Neoliberalism-in-Quebec)
 3. [Le changement climatique / Climate change](#Le-changement-climatique-/-Climate-change)
   - [Général / General](#Général-/-General)
+  - [L'obsolescence programmée / Planned obsolescence](#L'obsolescence-programmée-/-Planned-obsolescence)
 
 <a name="la-géopolitique-/-geopolitics" />
 
@@ -346,6 +347,8 @@
 [FORA.tv](https://www.youtube.com/watch?v=yzcfsq1_bt8) | Slavoj Žižek: The Delusion of Green Capitalism
 
 [The Wall Street Journal](https://www.youtube.com/watch?v=2NsBcVrPQok) | Greenwashing: When Companies Aren’t as Sustainable as They Claim
+
+<a name="L'obsolescence-programmée-/-Planned-obsolescence" />
 
 ### L'obsolescence programmée / Planned obsolescence
 
