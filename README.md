@@ -36,6 +36,7 @@
 5. [Les enjeux contemporains / Contemporary issues](#Les-enjeux-contemporains-/-Contemporary-issues)
     - [La désinformation / Disinformation](#La-désinformation-/-Disinformation)
     - [La surveillance et la vie privée / Surveillance and privacy](#La-surveillance-et-la-vie-privée-/-Surveillance-and-privacy)
+    - [L'internet et les GAFAM / Internet and GAFAM](#L'internet-et-les-GAFAM-/-Internet-and-GAFAM)
 
 <a name="la-géopolitique-/-geopolitics" />
 
@@ -422,6 +423,8 @@
 [DuckDuckGo](https://spreadprivacy.com/three-reasons-why-the-nothing-to-hide-argument-is-flawed/) | Three Reasons Why the "Nothing to Hide" Argument is Flawed
 
 [Wikipedia](https://en.wikipedia.org/wiki/Nothing_to_hide_argument) | Nothing to hide argument
+
+<a name="L'internet-et-les-GAFAM-/-Internet-and-GAFAM" />
 
 ### L'internet et les GAFAM / Internet and GAFAM
 
