@@ -90,6 +90,8 @@
 
 6. [Le Québec](#Le-Québec)
 
+   - [La politique québécoise / Québec politics](#La-politique-québécoise-/-Québec-politics) 
+
 <a name="la-géopolitique-/-geopolitics" />
 
 ## La géopolitique / Geopolitics
@@ -587,6 +589,8 @@
 <a name="Le-Québec" />
 
 ## Le Québec
+
+<a name="La-politique-québécoise-/-Québec-politics" />
 
 ### La politique québécoise / Québec politics
 
