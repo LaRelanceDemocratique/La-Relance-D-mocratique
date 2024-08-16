@@ -204,7 +204,7 @@
 
 [VICE News](https://www.youtube.com/watch?v=RrplLEQQMnE) | Uyghurs Who Fled China Now Face Repression in Pakistan
 
-<a name="Autres-/-Other" />
+<b name="Autres-/-Other" />
 
 #### Autres / Other
 
