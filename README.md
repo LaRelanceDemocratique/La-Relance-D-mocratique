@@ -35,6 +35,7 @@
 4. [L'amènagement urbain / Urban planning](#L'amènagement-urbain-/-Urban-planning)
 5. [Les enjeux contemporains / Contemporary issues](#Les-enjeux-contemporains-/-Contemporary-issues)
     - [La désinformation / Disinformation](#La-désinformation-/-Disinformation)
+    - [La surveillance et la vie privée / Surveillance and privacy](#La-surveillance-et-la-vie-privée-/-Surveillance-and-privacy)
 
 <a name="la-géopolitique-/-geopolitics" />
 
@@ -411,6 +412,8 @@
 [Josh Richman, Nathan Sheard](https://www.eff.org/deeplinks/2024/03/protect-yourself-election-misinformation) | Protect Yourself from Election Misinformation
 
 [Charlotte Maher](https://www.bellingcat.com/resources/how-tos/2023/10/26/separating-fact-from-fiction-on-social-media-in-times-of-conflict/) | Separating Fact from Fiction on Social Media in Times of Conflict
+
+<a name="La-surveillance-et-la-vie-privée-/-Surveillance-and-privacy" />
 
 ### La surveillance et la vie privée / Surveillance and privacy
 
