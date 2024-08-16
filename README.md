@@ -13,6 +13,8 @@
   - [La présence russe en Afrique / Russian presence in Africa](#La-présence-russe-en-Afrique-/-Russian-presence-in-Africa)
 - [Westplaining](#Westplaining)
 - [L'ingérence étrangère et le Canada / Foreign interference and Canada](#L'ingérence-étrangère-et-le-Canada-/-Foreign-interference-and-Canada)
+  -[L'ingérence chinoise / Chinese interference](#L'ingérence-chinoise-/-Chinese-interference)
+  -[L'ingérence indienne / Indian interference](#L'ingérence-indienne-/-Indian-interference)
 
 <a name="la-géopolitique-/-geopolitics" />
 
@@ -128,6 +130,8 @@
 
 [Katherine Leung](https://macdonaldlaurier.ca/canadas-new-foreign-agents-registry-could-do-more-to-protect-diaspora-communities-katherine-leung-for-inside-policy/) | Canada’s new foreign agents registry could do more to protect diaspora communities: Katherine Leung for Inside Policy
 
+<a name="L'ingérence-chinoise-/-Chinese-interference" />
+
 #### L'ingérence chinoise / Chinese interference
 
 [Amnesty International](https://amnesty.ca/human-rights-news/students-canadian-universities-surveillance-harassment-chinese-state-authorities/) | Students at Canadian universities face surveillance, harassment by Chinese state authorities, Amnesty reports
@@ -135,6 +139,8 @@
 [Joanna Chiu](https://www.thestar.com/news/canada/a-chinese-student-in-canada-had-two-followers-on-twitter-he-still-didn-t-escape/article_6800d3f1-38e6-5c6f-a551-ea4d9f500997.html) | A Chinese student in Canada had two followers on Twitter. He still didn’t escape Beijing’s threats over online activity
 
 [Nadine Yousif](https://www.bbc.com/news/world-us-canada-64909560) | Canadian police investigate Chinese 'police stations' in Quebec
+
+<a name="L'ingérence-indienne-/-Indian-interference" />
 
 #### L'ingérence indienne / Indian interference
 
