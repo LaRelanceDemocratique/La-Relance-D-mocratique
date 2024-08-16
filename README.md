@@ -19,6 +19,7 @@
   - [L'impérialisme russe / Russian imperialism](#L'impérialisme-russe-/-Russian-imperialism)
   - [L'impérialisme chinois / Chinese imperialism](#L'impérialisme-chinois-/-Chinese-imperialism)
   - [Autres / Other](#Autres-/-Other)
+- [La migration humaine / Human migration](#La-migration-humaine-/-Human-migration)
 
 <a name="la-géopolitique-/-geopolitics" />
 
@@ -203,6 +204,8 @@
 #### Autres / Other
 
 [M. Laser History](https://www.youtube.com/watch?v=xU2KwlWL1Us) | Introduction to the Slave Trade of the Slavs
+
+<a name="La-migration-humaine-/-Human-migration" />
 
 ### La migration humaine / Human migration
 
