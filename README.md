@@ -96,7 +96,7 @@
      
    - [Les référendums au Québec / Québec referendums](#Les-référendums-au-Québec-/-Québec-referendums)
      
-7. [Le Canada / Canada]
+7. [Le Canada / Canada](#Le-Canada-/-Canada)
 
 <a name="la-géopolitique-/-geopolitics" />
 
@@ -621,6 +621,8 @@
 [Jacques Godbout](https://www.youtube.com/watch?v=rarPi7s3qQ4) | Le mouton noir
 
 [Denys Arcand](https://www.youtube.com/watch?v=lFxhIRXpUYw) | Le confort et l'indifférence
+
+<a name="Le-Canada-/-Canada" />
 
 ## Le Canada / Canada
 
