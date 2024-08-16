@@ -39,6 +39,7 @@
     - [L'internet et les GAFAM / Internet and GAFAM](#L'internet-et-les-GAFAM-/-Internet-and-GAFAM)
     - [L'intelligence artificielle / Artificial intelligence](#L'intelligence-artificielle-/-Artificial-intelligence)
     - [L'économie de la surveillance / Surveillance capitalism](#L'économie-de-la-surveillance-/-Surveillance-capitalism)
+    - [La confiance dans les institutions publiques / Trust in public institutions](#La-confiance-dans-les-institutions-publiques-/-Trust-in-public-institutions)
 
 <a name="la-géopolitique-/-geopolitics" />
 
@@ -450,7 +451,9 @@
 
 [BBC Ideas](https://www.youtube.com/watch?v=4oOCLIrB-0c) | Viewpoint: ‘We’re living in an age of surveillance capitalism’
 
-### La confiance dans les institutions publiqes / Trust in public institutions
+<a name="La-confiance-dans-les-institutions-publiques-/-Trust-in-public-institutions" />
+
+### La confiance dans les institutions publiques / Trust in public institutions
 
 [Vlad Vexler](https://www.youtube.com/watch?v=5laM89Qxykc&start=151) | We Are Losing Trust in Political Institutions
 
