@@ -16,7 +16,8 @@
   - [L'ingérence chinoise / Chinese interference](#L'ingérence-chinoise-/-Chinese-interference)
   - [L'ingérence indienne / Indian interference](#L'ingérence-indienne-/-Indian-interference)
 - [Les impérialismes / Imperialism](#Les-impérialismes-/-Imperialism)
-  - [L'impérialisme russe / Russian imperialism](#L'impérialisme-russe-/-Russian-imperialism) 
+  - [L'impérialisme russe / Russian imperialism](#L'impérialisme-russe-/-Russian-imperialism)
+  - [L'impérialisme chinois / Chinese imperialism](#L'impérialisme-chinois-/-Chinese-imperialism)
 
 <a name="la-géopolitique-/-geopolitics" />
 
@@ -177,6 +178,8 @@
 [Ghost Countries](https://www.youtube.com/watch?v=F5VYl76eEFY) | Sagallo: Russia's African Colony
 
 [Ghost Countries](https://www.youtube.com/watch?v=b-wvDzCJCBw&t=342s) | The Battle of Sagallo: Downfall of Russia's African Colony
+
+<a name="L'impérialisme-chinois-/-Chinese-imperialism" />
 
 #### L'impérialisme chinois / Chinese imperialism
 
