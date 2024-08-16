@@ -2,9 +2,9 @@
 
 ## Description
 
-Bienvenue au dépôt de la Relance Démocratique!
+Bienvenue au dépôt de la Relance Démocratique! Si vous souhaitez apprendre davantage sur le néo-idéalisme ou sur d'autres enjeux contemporains, jetez un coup d'œil sur la table des matières ci-dessous. Une fois que vous cliquez sur un sujet qui vous intéresse, vous serez dirigé vers une liste de vidéos et d'articles pertinentes par rapport à votre sélection. Vous pouvez ensuite consulter toutes les sources répertoriées en cliquant sur le texte surligné. Nous espérons que vous découvrirez quelque chose de nouveau!
 
-Welcome to La Relance Démocratique's repository!
+Welcome to La Relance Démocratique's repository! If you want to learn more about neo-idealism or other contemporary issues, have a look at the table of contents below. Once you click on a topic that interests you, you will be directed to a list of videos and articles relevant to your selection. You can then consult all the listed sources by clicking on the highlighted text. We hope you discover something new!
 
 ## Table de matières / Table of contents 
 
