@@ -84,6 +84,8 @@
     - [La santé mentale / Mental health](#La-santé-mentale-/-Mental-health)
   
     - [L'aliénation / Alienation](#L'aliénation-/-Alienation)
+  
+    - [Autres enjeux / Other issues](#Autres-enjeux-/-Other-issues)
 
 <a name="la-géopolitique-/-geopolitics" />
 
@@ -571,7 +573,9 @@
 
 [Maya Drøschler](https://medium.com/@MayaDroeschler/working-from-home-emancipation-or-alienation-of-the-white-collar-worker-816acbb45917) | Working from Home: Emancipation or Alienation of the White-Collar Worker
 
-### Autres / Other
+<a name="Autres-enjeux-/-Other-issues" />
+
+### Autres enjeux / Other issues
 
 [CaspianReport](https://www.youtube.com/watch?v=jLZhMtY208o) | Why the United Nations is obsolete
 
