@@ -99,6 +99,8 @@
 7. [Le Canada / Canada](#Le-Canada-/-Canada)
 
    - [La politique canadienne / Canadian politics](#La-politique-canadienne-/-Canadian-politics)
+     
+      - [La politique étrangère / Foreign policy](#La-politique-étrangère-/-Foreign-policy)
 
 <a name="la-géopolitique-/-geopolitics" />
 
@@ -631,6 +633,8 @@
 <a name="La-politique-canadienne-/-Canadian-politics" />
 
 ### La politique canadienne / Canadian politics
+
+<a name="La-politique-étrangère-/-Foreign-policy" />
 
 #### La politique étrangère / Foreign policy
 
