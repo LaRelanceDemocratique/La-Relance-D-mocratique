@@ -23,6 +23,7 @@
   - [Le conflit israélo-palestinien / The Israeli-Palestinian conflict](#Le-conflit-israélo-palestinien-/-The-Israeli-Palestinian-conflict)
     - [Les origines du conflit / The origins of the conflict](#Les-origines-du-conflit-/-The-origins-of-the-conflict)
     - [La confusion morale / Moral confusion](#La-confusion-morale-/-Moral-confusion)
+    - [La guerre israélo-arabe / The Arab-Israeli war](#La-guerre-israélo-arabe-/-The-Arab-Israeli-war)
 
 <a name="la-géopolitique-/-geopolitics" />
 
@@ -238,7 +239,9 @@
 
 [ARTE](https://www.youtube.com/watch?v=CV0gVMy5u9s) | Israël : Sdérot, le deuxième Israël
 
-#### La guerre israélo-arab / The Arab-Israeli war
+<a name="La-guerre-israélo-arabe-/-The-Arab-Israeli-war" />
+
+#### La guerre israélo-arabe / The Arab-Israeli war
 
 [Good Times Bad Times](https://www.youtube.com/watch?v=_p6wtzEKIOg) | Lessons from The Fifth Arab-Israeli War
 
