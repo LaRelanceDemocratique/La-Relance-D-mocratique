@@ -15,6 +15,7 @@
 - [L'ingérence étrangère et le Canada / Foreign interference and Canada](#L'ingérence-étrangère-et-le-Canada-/-Foreign-interference-and-Canada)
   - [L'ingérence chinoise / Chinese interference](#L'ingérence-chinoise-/-Chinese-interference)
   - [L'ingérence indienne / Indian interference](#L'ingérence-indienne-/-Indian-interference)
+- [Les impérialismes / Imperialism](#Les-impérialismes-/-Imperialism)
 
 <a name="la-géopolitique-/-geopolitics" />
 
@@ -147,6 +148,8 @@
 [Shweta Sharma](https://www.independent.co.uk/asia/india/canada-india-threat-china-trudeau-modi-b2557893.html) | India second biggest foreign threat to Canada after China, says government panel
 
 [Murtaza Hussain, Ryan Grim](https://theintercept.com/2023/12/10/india-sikhs-leaked-memo-us-canada/) | Secret Indian Memo Ordered "Concrete Measures" Against Hardeep Singh Nijjar Two Months Before His Assassination in Canada
+
+<a name="Les-impérialismes-/-Imperialism" />
 
 ### Les impérialismes / Imperialism
 
