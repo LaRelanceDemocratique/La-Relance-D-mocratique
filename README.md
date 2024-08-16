@@ -103,6 +103,8 @@
       - [La politique étrangère / Foreign policy](#La-politique-étrangère-/-Foreign-policy)
         
       - [L'Arctique / The Arctic](#L'Arctique-/-The-Arctic)
+        
+      - [L'ingérence étrangère / Foreign interference](#L'ingérence-étrangère-/-Foreign-interference)
 
 <a name="la-géopolitique-/-geopolitics" />
 
@@ -687,6 +689,8 @@
 [CBC News: The National](https://www.youtube.com/watch?v=I0UKd4aWbqI) | Calls for Canada to protect Arctic sovereignty
 
 [Alexander Dalziel](https://policyoptions.irpp.org/magazines/april-2024/greenland-canada-growing-ties/) | Making Greenland a full part of North America should be a priority for Canada
+
+<a name="L'ingérence-étrangère-/-Foreign-interference" />
 
 #### L'ingérence étrangère / Foreign interference
 
