@@ -11,6 +11,7 @@
   - [Les crimes de guerre commis par la Russie / Russian war crimes](#les-crimes-de-guerre-commis-par-la-Russie-/-Russian-war-crimes)
   - [Comprendre la Russie / Understanding Russia](#Comprendre-la-Russie-/-Understanding-Russia)
   - [La présence russe en Afrique / Russian presence in Africa](#La-présence-russe-en-Afrique-/-Russian-presence-in-Africa)
+- [Westplaining](#Westplaining)
 
 <a name="la-géopolitique-/-geopolitics" />
 
@@ -103,6 +104,8 @@
 [Silicon Curtain](https://www.youtube.com/watch?v=uZgI_ZfJMHY) | Beverly Ochieng - Wagner is Active in Africa Extracting Resources to Fuel Russia’s Global Ambitions
 
 [Silicon Curtain](https://www.youtube.com/watch?v=KcdwX1RbSDc) | Beverly Ochieng - One Year on from Prighozhin’s Mutiny, Wagner is Deeply Embedded in Africa's Sahel
+
+<a name="Westplaining" />
 
 ### Westplaining
 
