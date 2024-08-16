@@ -105,6 +105,8 @@
       - [L'Arctique / The Arctic](#L'Arctique-/-The-Arctic)
         
       - [L'ingérence étrangère / Foreign interference](#L'ingérence-étrangère-/-Foreign-interference)
+        
+      - [L'Armée canadienne / The Canadian Army](#L'Armée-canadienne-/-The-Canadian-Army)
 
 <a name="la-géopolitique-/-geopolitics" />
 
@@ -701,6 +703,8 @@
 [Konrad Yakabuski](https://www.ledevoir.com/opinion/chroniques/814505/chronique-ingerence-etrangere-indifference-liberale) | L’ingérence étrangère et l’indifférence libérale
 
 [Andrew Kirsch](https://thehub.ca/2024/05/09/andrew-kirsch-it-would-be-nice-if-the-pm-took-csis-advice-seriously/) | I am a former CSIS intelligence officer. It would be nice if the PM took our security advice seriously
+
+<a name="L'Armée-canadienne-/-The-Canadian-Army" />
 
 #### L'Armée canadienne / The Canadian Army
 
