@@ -598,7 +598,7 @@
 
 [Patrice Bergeron](https://www.ledevoir.com/politique/quebec/814257/pspp-demande-gouvernement-legault-agir-ingerence-etrangere) | PSPP demande au gouvernement Legault d’agir sur l’ingérence étrangère
 
-<a name="L'interculturalisme-/-Interculturalis" />
+<a name="L'interculturalisme-/-Interculturalism" />
 
 ### L'interculturalisme / Interculturalism
 
