@@ -42,6 +42,7 @@
     - [La confiance dans les institutions publiques / Trust in public institutions](#La-confiance-dans-les-institutions-publiques-/-Trust-in-public-institutions)
     - [La politique identitaire vs. l'universalisme / Identity politics vs. universalism](#La-politique-identitaire-vs.-l'universalisme-/-Identity-politics-vs.-universalism)
     - [Le populisme et le sensationnalisme / Populism and sensationalism](#Le-populisme-et-le-sensationnalisme-/-Populism-and-sensationalism)
+    - [L'ethnocentrisme / Ethnocentrism](#L'ethnocentrisme-/-Ethnocentrism)
 
 <a name="la-géopolitique-/-geopolitics" />
 
@@ -494,6 +495,8 @@
 [Stephan Jensen](https://quillette.com/2022/05/13/the-hard-left-and-populist-right-agree-on-all-the-wrong-things/) | The Hard Left and Populist Right Agree on All the Wrong Things
 
 [Slavoj Žižek](https://www.youtube.com/watch?v=WdR-YThyihw) | Why I am against left-wing populism
+
+<a name="L'ethnocentrisme-/-Ethnocentrism" />
 
 ### L'ethnocentrisme / Ethnocentrism
 
