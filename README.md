@@ -18,6 +18,7 @@
 - [Les impérialismes / Imperialism](#Les-impérialismes-/-Imperialism)
   - [L'impérialisme russe / Russian imperialism](#L'impérialisme-russe-/-Russian-imperialism)
   - [L'impérialisme chinois / Chinese imperialism](#L'impérialisme-chinois-/-Chinese-imperialism)
+  - [Autres / Other](#Autres-/-Other)
 
 <a name="la-géopolitique-/-geopolitics" />
 
@@ -196,6 +197,8 @@
 [BBC News](https://www.youtube.com/watch?v=HTp54QwxV8U) | Hacked files reveal Chinese “shoot-to-kill” policy in Uighur detention camps
 
 [VICE News](https://www.youtube.com/watch?v=RrplLEQQMnE) | Uyghurs Who Fled China Now Face Repression in Pakistan
+
+<a name="Autres-/-Other" />
 
 #### Autres / Other
 
