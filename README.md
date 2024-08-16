@@ -13,8 +13,8 @@
   - [La présence russe en Afrique / Russian presence in Africa](#La-présence-russe-en-Afrique-/-Russian-presence-in-Africa)
 - [Westplaining](#Westplaining)
 - [L'ingérence étrangère et le Canada / Foreign interference and Canada](#L'ingérence-étrangère-et-le-Canada-/-Foreign-interference-and-Canada)
-  -[L'ingérence chinoise / Chinese interference](#L'ingérence-chinoise-/-Chinese-interference)
-  -[L'ingérence indienne / Indian interference](#L'ingérence-indienne-/-Indian-interference)
+  - [L'ingérence chinoise / Chinese interference](#L'ingérence-chinoise-/-Chinese-interference)
+  - [L'ingérence indienne / Indian interference](#L'ingérence-indienne-/-Indian-interference)
 
 <a name="la-géopolitique-/-geopolitics" />
 
