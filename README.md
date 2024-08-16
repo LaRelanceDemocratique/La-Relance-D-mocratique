@@ -7,7 +7,8 @@
 1. [La géopolitique / Geopolitics](#la-géopolitique-/-geopolitics)
 - [Le néo-idéalisme / Neo-idealism](#le-néo-idéalisme-/-neo-idealism)
 - [La menace russe / The Russian threat](#la-menace-russe-/-the-russian-threat)
-  - [La désinformation russe / Russian disinformation](#la-désinformation-russe-/-russian-disinformation) 
+  - [La désinformation russe / Russian disinformation](#la-désinformation-russe-/-russian-disinformation)
+  - [Les crimes de guerre commis par la Russie / Russian war crimes](#les-crimes-de-guerre-commis-par-la-Russie-/-Russian-war-crimes)
 
 <a name="la-géopolitique-/-geopolitics" />
 
@@ -70,6 +71,8 @@
 [Vlad Vexler](https://www.youtube.com/watch?v=017WGzJ5fHA) | How Putin Fooled the Western Left
 
 [Vatnik Soup](https://vatniksoup.com/en/soups/100/) | False flag operations
+
+<a name="les-crimes-de-guerre-commis-par-la-Russie-/-Russian-war-crimes" />
 
 #### Les crimes de guerre commis par la Russie / Russian war crimes
 
