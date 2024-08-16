@@ -87,6 +87,8 @@
   
     - [Autres enjeux / Other issues](#Autres-enjeux-/-Other-issues)
 
+8. [Le Québec](#Le-Québec)
+
 <a name="la-géopolitique-/-geopolitics" />
 
 ## La géopolitique / Geopolitics
@@ -580,6 +582,8 @@
 [CaspianReport](https://www.youtube.com/watch?v=jLZhMtY208o) | Why the United Nations is obsolete
 
 [Shoaib Shafi](https://przekroj.org/en/world-people/earth-alienation/) | Earth Alienation: Hannah Arendt on Outer Space
+
+<a name="Le-Québec" />
 
 ## Le Québec
 
