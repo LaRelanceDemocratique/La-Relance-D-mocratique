@@ -25,6 +25,7 @@
     - [La confusion morale / Moral confusion](#La-confusion-morale-/-Moral-confusion)
     - [La guerre israélo-arabe / The Arab-Israeli war](#La-guerre-israélo-arabe-/-The-Arab-Israeli-war)
   - [Autres tensions géopolitiques / Other geopolitical tensions](#Autres-tensions-géopolitiques-/-Other-geopolitical-tensions)
+2. [Le néolibéralisme / Neoliberalism](#Le-néolibéralisme-/-Neoliberalism)
 
 <a name="la-géopolitique-/-geopolitics" />
 
@@ -275,6 +276,8 @@
 [Versed](https://www.youtube.com/watch?v=t-rRPtDWR4w) | How The US Just Expanded By 400,000 Miles
 
 [Vox](https://www.youtube.com/watch?v=pf1GvrUqeIA) | The race to mine the bottom of the ocean
+
+<a name="Le-néolibéralisme-/-Neoliberalism" />
 
 ## Le néolibéralisme / Neoliberalism
 
