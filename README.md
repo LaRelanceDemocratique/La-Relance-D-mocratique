@@ -357,7 +357,7 @@
 
 [La Presse canadienne](https://www.ledevoir.com/politique/quebec/799273/projet-loi-contre-obsolescence-programmee-est-adopte-unanimite) | Le projet de loi contre l’obsolescence programmée est adopté à l’unanimité
 
-<a name="Les-alternatives-au-capitalism-/-Alternatives-to-capitalism" />
+<a name="Les-alternatives-au-capitalisme-/-Alternatives-to-capitalism" />
 
 ### Les alternatives au capitalisme / Alternatives to capitalism
 
