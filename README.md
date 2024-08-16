@@ -4,7 +4,7 @@
 
 ## Table de matières / Table of contents 
 
-1. [La géopolitique / Geopolitics](#la-géopolitique-/-geopolitics)
+1.[La géopolitique / Geopolitics](#la-géopolitique-/-geopolitics)
   - [Le néo-idéalisme / Neo-idealism](#le-néo-idéalisme-/-neo-idealism)
   - [La menace russe / The Russian threat](#la-menace-russe-/-the-russian-threat)
     - [La désinformation russe / Russian disinformation](#la-désinformation-russe-/-russian-disinformation)
@@ -25,7 +25,7 @@
     - [La confusion morale / Moral confusion](#La-confusion-morale-/-Moral-confusion)
     - [La guerre israélo-arabe / The Arab-Israeli war](#La-guerre-israélo-arabe-/-The-Arab-Israeli-war)
   - [Autres tensions géopolitiques / Other geopolitical tensions](#Autres-tensions-géopolitiques-/-Other-geopolitical-tensions)
-2. [Le néolibéralisme / Neoliberalism](#Le-néolibéralisme-/-Neoliberalism)
+2.[Le néolibéralisme / Neoliberalism](#Le-néolibéralisme-/-Neoliberalism)
 
 <a name="la-géopolitique-/-geopolitics" />
 
