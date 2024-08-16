@@ -21,7 +21,8 @@
     - [Autres / Other](#Autres-/-Other)
   - [La migration humaine / Human migration](#La-migration-humaine-/-Human-migration)
   - [Le conflit israélo-palestinien / The Israeli-Palestinian conflict](#Le-conflit-israélo-palestinien-/-The-Israeli-Palestinian-conflict)
-    - [Les origines du conflit / The origins of the conflict](#Les-origines-du-conflit-/-The-origins-of-the-conflict) 
+    - [Les origines du conflit / The origins of the conflict](#Les-origines-du-conflit-/-The-origins-of-the-conflict)
+    - [La confusion morale / Moral confusion](#La-confusion-morale-/-Moral-confusion)
 
 <a name="la-géopolitique-/-geopolitics" />
 
@@ -222,6 +223,8 @@
 #### Les origines du conflit / The origins of the conflict
 
 [Yuriy Matsarsky](https://theins.ru/en/history/266486) | Born in the flames of resolutions: The history and underlying causes of the Arab-Israeli conflict
+
+<a name="La-confusion-morale-/-Moral-confusion" />
 
 #### La confusion morale / Moral confusion
 
