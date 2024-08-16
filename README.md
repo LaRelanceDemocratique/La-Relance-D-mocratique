@@ -21,6 +21,7 @@
     - [Autres / Other](#Autres-/-Other)
   - [La migration humaine / Human migration](#La-migration-humaine-/-Human-migration)
   - [Le conflit israélo-palestinien / The Israeli-Palestinian conflict](#Le-conflit-israélo-palestinien-/-The-Israeli-Palestinian-conflict)
+    - [Les origines du conflit / The origins of the conflict](#Les-origines-du-conflit-/-The-origins-of-the-conflict) 
 
 <a name="la-géopolitique-/-geopolitics" />
 
@@ -215,6 +216,8 @@
 <a name="Le-conflit-israélo-palestinien-/-The-Israeli-Palestinian-conflict" />
 
 ### Le conflit israélo-palestinien / The Israeli-Palestinian conflict
+
+<a name="Les-origines-du-conflit-/-The-origins-of-the-conflict" />
 
 #### Les origines du conflit / The origins of the conflict
 
