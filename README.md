@@ -27,6 +27,7 @@
   - [Autres tensions géopolitiques / Other geopolitical tensions](#Autres-tensions-géopolitiques-/-Other-geopolitical-tensions)
 2. [Le néolibéralisme / Neoliberalism](#Le-néolibéralisme-/-Neoliberalism)
 - [Comprendre le néolibéralisme / Understanding neoliberalism](#Comprendre-le-néolibéralisme-/-Understanding-neoliberalism)
+- [Le néolibéralisme au Québec / Neoliberalism in Quebec](#Le-néolibéralisme-au-Québec-/-Neoliberalism-in-Quebec)
 
 <a name="la-géopolitique-/-geopolitics" />
 
@@ -301,6 +302,8 @@
 [Philosophize This!](https://www.youtube.com/watch?v=gvF1-ZU_3vM) | Episode #203 ... Why the future is being slowly cancelled. - Postmodernism (Mark Fisher)
 
 [Rana Foroohar](https://www.foreignaffairs.com/united-states/after-neoliberalism-all-economics-is-local-rana-foroohar) | After Neoliberalism: All Economics Is Local
+
+<a name="Le-néolibéralisme-au-Québec-/-Neoliberalism-in-Quebec" />
 
 ### Le néolibéralisme au Québec / Neoliberalism in Quebec
 
