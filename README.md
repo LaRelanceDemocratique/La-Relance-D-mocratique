@@ -2,6 +2,10 @@
 
 ## Description
 
+Bienvenue au dépôt de la Relance Démocratique!
+
+Welcome to La Relance Démocratique's repository!
+
 ## Table de matières / Table of contents 
 
 1. [La géopolitique / Geopolitics](#la-géopolitique-/-geopolitics)
