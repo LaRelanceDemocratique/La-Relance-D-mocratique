@@ -101,6 +101,8 @@
    - [La politique canadienne / Canadian politics](#La-politique-canadienne-/-Canadian-politics)
      
       - [La politique étrangère / Foreign policy](#La-politique-étrangère-/-Foreign-policy)
+        
+      - [L'Arctique / The Arctic](#L'Arctique-/-The-Arctic)
 
 <a name="la-géopolitique-/-geopolitics" />
 
@@ -663,6 +665,8 @@
 [David Mulroney, Obianuju Ekeocha](https://macdonaldlaurier.ca/memo-to-canada-talk-less-and-listen-more-to-the-rest-of-the-world-david-mulroney-and-obianuju-ekeocha-in-the-national-post/) | Memo to Canada – Talk less and listen more to the rest of the world
 
 [Jonathan Paquin, Louise Blais](https://www.ledevoir.com/opinion/idees/801361/idees-petite-revolution-diplomatie-canadienne) | Petite révolution en diplomatie canadienne?
+
+<a name="L'Arctique-/-The-Arctic" />
 
 #### L'Arctique / The Arctic
 
