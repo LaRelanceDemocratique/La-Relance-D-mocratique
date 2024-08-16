@@ -98,6 +98,8 @@
      
 7. [Le Canada / Canada](#Le-Canada-/-Canada)
 
+   - [La politique canadienne / Canadian politics](#La-politique-canadienne-/-Canadian-politics)
+
 <a name="la-géopolitique-/-geopolitics" />
 
 ## La géopolitique / Geopolitics
@@ -625,6 +627,8 @@
 <a name="Le-Canada-/-Canada" />
 
 ## Le Canada / Canada
+
+<a name="La-politique-canadienne-/-Canadian-politics" />
 
 ### La politique canadienne / Canadian politics
 
