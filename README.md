@@ -28,6 +28,7 @@
 2. [Le néolibéralisme / Neoliberalism](#Le-néolibéralisme-/-Neoliberalism)
 - [Comprendre le néolibéralisme / Understanding neoliberalism](#Comprendre-le-néolibéralisme-/-Understanding-neoliberalism)
 - [Le néolibéralisme au Québec / Neoliberalism in Quebec](#Le-néolibéralisme-au-Québec-/-Neoliberalism-in-Quebec)
+3. [Le changement climatique / Climate change](#Le-changement-climatique-/-Climate-change)
 
 <a name="la-géopolitique-/-geopolitics" />
 
@@ -322,6 +323,8 @@
 [Gabriel Arsenault](https://doi.org/10.22230/cjnser.2018v9n1a237) | Explaining Quebec's Social Economy Turn
 
 [Gil Courtemanche](https://www.youtube.com/watch?v=OOfQSVDFr6s) | 1973 Boulevard Curé-Labelle
+
+<a name="Le-changement-climatique-/-Climate-change" />
 
 ## Le changement climatique / Climate change
 
