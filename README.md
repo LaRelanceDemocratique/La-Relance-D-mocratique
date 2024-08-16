@@ -34,6 +34,7 @@
     - [Les alternatives au capitalisme / Alternatives to capitalism](#Les-alternatives-au-capitalisme-/-Alternatives-to-capitalism)
 4. [L'amènagement urbain / Urban planning](#L'amènagement-urbain-/-Urban-planning)
 5. [Les enjeux contemporains / Contemporary issues](#Les-enjeux-contemporains-/-Contemporary-issues)
+    - [La désinformation / Disinformation](#La-désinformation-/-Disinformation)
 
 <a name="la-géopolitique-/-geopolitics" />
 
@@ -392,6 +393,8 @@
 <a name="Les-enjeux-contemporains-/-Contemporary-issues" />
 
 ## Les enjeux contemporains / Contemporary issues
+
+<a name="La-désinformation-/-Disinformation" />
 
 ### La désinformation / Disinformation
 
