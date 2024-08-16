@@ -59,6 +59,7 @@
     - [L'obsolescence programmée / Planned obsolescence](#L'obsolescence-programmée-/-Planned-obsolescence)
     
     - [Les alternatives au capitalisme / Alternatives to capitalism](#Les-alternatives-au-capitalisme-/-Alternatives-to-capitalism)
+      
 6. [L'amènagement urbain / Urban planning](#L'amènagement-urbain-/-Urban-planning)
 
 7. [Les enjeux contemporains / Contemporary issues](#Les-enjeux-contemporains-/-Contemporary-issues)
