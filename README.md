@@ -37,6 +37,7 @@
     - [La désinformation / Disinformation](#La-désinformation-/-Disinformation)
     - [La surveillance et la vie privée / Surveillance and privacy](#La-surveillance-et-la-vie-privée-/-Surveillance-and-privacy)
     - [L'internet et les GAFAM / Internet and GAFAM](#L'internet-et-les-GAFAM-/-Internet-and-GAFAM)
+    - [L'intelligence artificielle / Artificial intelligence](#L'intelligence-artificielle-/-Artificial-intelligence)
 
 <a name="la-géopolitique-/-geopolitics" />
 
@@ -431,6 +432,8 @@
 [C. Thi Nguyen](https://theconversation.com/the-problem-of-living-inside-echo-chambers-110486) | The problem of living inside echo chambers
 
 [Bellingcat](https://www.bellingcat.com/what-is-bellingcats-ja-unit-december-2022/) | What is Bellingcat's Justice and Accountability Unit?
+
+<a name="L'intelligence-artificielle-/-Artificial-intelligence" />
 
 ### L'intelligence artificielle / Artificial intelligence
 
