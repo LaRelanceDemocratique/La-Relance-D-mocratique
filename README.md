@@ -29,9 +29,9 @@
   - [Comprendre le néolibéralisme / Understanding neoliberalism](#Comprendre-le-néolibéralisme-/-Understanding-neoliberalism)
   - [Le néolibéralisme au Québec / Neoliberalism in Quebec](#Le-néolibéralisme-au-Québec-/-Neoliberalism-in-Quebec)
 3. [Le changement climatique / Climate change](#Le-changement-climatique-/-Climate-change)
-  1. [Général / General](#Général-/-General)
-  2. [L'obsolescence programmée / Planned obsolescence](#L'obsolescence-programmée-/-Planned-obsolescence)
-  3. [Les alternatives au capitalisme / Alternatives to capitalism](#Les-alternatives-au-capitalisme-/-Alternatives-to-capitalism)
+  - [Général / General](#Général-/-General)
+  - [L'obsolescence programmée / Planned obsolescence](#L'obsolescence-programmée-/-Planned-obsolescence)
+  - [Les alternatives au capitalisme / Alternatives to capitalism](#Les-alternatives-au-capitalisme-/-Alternatives-to-capitalism)
 4. [L'amènagement urbain / Urban planning](#L'amènagement-urbain-/-Urban-planning)
 5. [Les enjeux contemporains / Contemporary issues](#Les-enjeux-contemporains-/-Contemporary-issues)
 
