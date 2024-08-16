@@ -108,6 +108,8 @@
         
       - [L'Armée canadienne / The Canadian Army](#L'Armée-canadienne-/-The-Canadian-Army)
 
+   - [Le multiculturalisme / Multiculturalism](#Le-multiculturalisme-/-Multiculturalism)
+
 <a name="la-géopolitique-/-geopolitics" />
 
 ## La géopolitique / Geopolitics
@@ -715,6 +717,8 @@
 [Richard Shimooka](https://macdonaldlaurier.ca/canadas-military-left-behind/) | Canada’s military is being left behind
 
 [CBC News: The National](https://www.youtube.com/watch?v=_fiRhsKOFqY) | The world is at a ‘turning point’ — is Canada’s military ready?
+
+<a name="Le-multiculturalisme-/-Multiculturalism" />
 
 ### Le multiculturalisme / Multiculturalism
 
