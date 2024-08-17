@@ -64,7 +64,7 @@ Welcome to La Relance Démocratique's repository! If you want to learn more abou
     
     - [L'obsolescence programmée / Planned obsolescence](#L'obsolescence-programmée-/-Planned-obsolescence)
     
-    - [Les alternatives au capitalisme / Alternatives to capitalism](#Les-alternatives-au-capitalisme-/-Alternatives-to-capitalism)
+    - [Les solutions possibles / Possible solutions](#Les-solutions-possibles-/-possible-solutions)
       
 4. [L'amènagement urbain / Urban planning](#L'amènagement-urbain-/-Urban-planning)
 
@@ -440,9 +440,9 @@ Welcome to La Relance Démocratique's repository! If you want to learn more abou
 
 [La Presse canadienne](https://www.ledevoir.com/politique/quebec/799273/projet-loi-contre-obsolescence-programmee-est-adopte-unanimite) | Le projet de loi contre l’obsolescence programmée est adopté à l’unanimité
 
-<a name="Les-alternatives-au-capitalisme-/-Alternatives-to-capitalism" />
+<a name="Les-solutions-possibles-/-possible-solutions" />
 
-### Les alternatives au capitalisme / Alternatives to capitalism
+### Les solutions possibles / Possible solutions
 
 [Paulina Wilk](https://przekroj.org/en/world-people/better-not-to-cross-the-dreamer/) | The World’s Bravest Economist: The Revolutionary Economist
 
