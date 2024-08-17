@@ -74,7 +74,7 @@ Welcome to La Relance Démocratique's repository! If you want to learn more abou
     
     - [La surveillance et la vie privée / Surveillance and privacy](#La-surveillance-et-la-vie-privée-/-Surveillance-and-privacy)
     
-    - [L'internet et les GAFAM / Internet and GAFAM](#L'internet-et-les-GAFAM-/-Internet-and-GAFAM)
+    - [L'internet et l'ère des algorithmes / The Internet and the algorithm era](#L'internet-et-l'ère-des-algorithmes-/-The-Internet-and-the-algorithm-era)
     
     - [L'intelligence artificielle / Artificial intelligence](#L'intelligence-artificielle-/-Artificial-intelligence)
     
@@ -502,9 +502,9 @@ Welcome to La Relance Démocratique's repository! If you want to learn more abou
 
 [Wikipedia](https://en.wikipedia.org/wiki/Nothing_to_hide_argument) | Nothing to hide argument
 
-<a name="L'internet-et-les-GAFAM-/-Internet-and-GAFAM" />
+<a name="L'internet-et-l'ère-des-algorithmes-/-The-Internet-and-the-algorithm-era" />
 
-### L'internet et les GAFAM / Internet and GAFAM
+### L'internet et l'ère des algorithmes / The Internet and the algorithm era
 
 [C. Thi Nguyen](https://theconversation.com/the-problem-of-living-inside-echo-chambers-110486) | The problem of living inside echo chambers
 
